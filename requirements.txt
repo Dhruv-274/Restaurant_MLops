@@ -1,0 +1,28 @@
+# Updated requirements.txt with compatible versions
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.2.0
+nltk>=3.7
+textblob>=0.17.0
+
+# ML Tracking
+mlflow>=2.3.0
+
+# API
+fastapi>=0.95.0
+uvicorn[standard]>=0.20.0
+pydantic>=1.10.0
+
+# Testing
+pytest>=7.0.0
+requests>=2.28.0
+
+# Utilities
+python-dotenv>=0.19.0
+joblib>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+streamlit>=1.20.0
