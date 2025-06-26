@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dhruvrs/OneDrive/Desktop/MLopsproj/restaurant-rating-predictor/mlruns/318812528151299262/116715340b3c4896852755b655bdde1a/artifacts
+end_time: 1750942115801
+entry_point_name: ''
+experiment_id: '318812528151299262'
+lifecycle_stage: active
+run_id: 116715340b3c4896852755b655bdde1a
+run_name: linear_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750942108964
+status: 3
+tags: []
+user_id: dhruvrs

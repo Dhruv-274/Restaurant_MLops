@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/dhruvrs/OneDrive/Desktop/MLopsproj/restaurant-rating-predictor/mlruns/318812528151299262/models/m-f18096b9ccac405ba4e6d653dd9f529e/artifacts
+creation_timestamp: 1750942270184
+experiment_id: '318812528151299262'
+last_updated_timestamp: 1750942274450
+model_id: m-f18096b9ccac405ba4e6d653dd9f529e
+model_type: null
+name: model
+source_run_id: 439118141d2f4d37817346a2c93fc782
+status: 2
+status_message: null

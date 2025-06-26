@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/dhruvrs/OneDrive/Desktop/MLopsproj/restaurant-rating-predictor/mlruns/318812528151299262/models/m-782e2cac3d3b4226a34880b38c5c2fbb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-782e2cac3d3b4226a34880b38c5c2fbb
+model_size_bytes: 2359944
+model_uuid: m-782e2cac3d3b4226a34880b38c5c2fbb
+prompts: null
+run_id: d91a0545d07047b79275a184d731d5c2
+utc_time_created: '2025-06-26 12:45:05.464078'

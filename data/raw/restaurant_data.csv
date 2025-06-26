@@ -1,0 +1,1001 @@
+business_id,name,location,categories,price_range,text,stars
+rest_0,Pasta Place,University,Coffee,$$$,"Good food, decent service. Pretty average overall.",3.3
+rest_1,Pasta Place,Mall,Japanese,$$$$,Worst restaurant experience ever. Avoid this place.,3.4
+rest_2,BBQ Joint,Mall,Vegetarian,$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_3,Steakhouse,University,Mexican,$$$$,Not worth the money. Poor quality and bad service.,1.7
+rest_4,Sushi Zen,University,BBQ,$$$$,Decent restaurant with reasonable prices.,3.6
+rest_5,Vegan Delight,Suburb,Mexican,$,Excellent quality and atmosphere. Will definitely come back.,5.3
+rest_6,Steakhouse,Downtown,American,$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_7,BBQ Joint,Mall,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_8,Taco Truck,Suburb,Vegetarian,$$,Worst restaurant experience ever. Avoid this place.,1.9
+rest_9,BBQ Joint,University,Italian,$$,Worst restaurant experience ever. Avoid this place.,2.7
+rest_10,Burger House,Beach,American,$,Worst restaurant experience ever. Avoid this place.,1.6
+rest_11,Pizza Palace,Downtown,BBQ,$,Perfect place for dinner. Great ambiance and taste.,3.6
+rest_12,BBQ Joint,Mall,Japanese,$,Decent restaurant with reasonable prices.,3.4
+rest_13,Pasta Place,Downtown,Mexican,$$,Terrible food and rude staff. Would not recommend.,1.2
+rest_14,Pasta Place,Beach,Japanese,$$$$,Decent restaurant with reasonable prices.,2.5
+rest_15,Sushi Zen,Downtown,Coffee,$$,Not worth the money. Poor quality and bad service.,2.5
+rest_16,Pasta Place,Mall,Italian,$$$,Not worth the money. Poor quality and bad service.,2.0
+rest_17,Pasta Place,Downtown,Mexican,$,"Nice place, food was okay. Nothing extraordinary.",2.9
+rest_18,Fine Dining,Beach,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,1.7
+rest_19,Coffee Corner,University,American,$$,Amazing food and great service! Highly recommend.,4.0
+rest_20,Fine Dining,University,Mexican,$$$$,Not worth the money. Poor quality and bad service.,1.6
+rest_21,Pasta Place,University,Italian,$$$,Amazing food and great service! Highly recommend.,5.0
+rest_22,Vegan Delight,Mall,Vegetarian,$,Amazing food and great service! Highly recommend.,3.8
+rest_23,Vegan Delight,Beach,Italian,$$$,Worst restaurant experience ever. Avoid this place.,1.8
+rest_24,Coffee Corner,Downtown,Mexican,$,Not worth the money. Poor quality and bad service.,0.3
+rest_25,Pizza Palace,Downtown,Japanese,$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_26,Coffee Corner,Beach,Italian,$,Not worth the money. Poor quality and bad service.,0.7
+rest_27,Coffee Corner,University,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,3.2
+rest_28,Coffee Corner,Beach,Mexican,$$,Decent restaurant with reasonable prices.,3.8
+rest_29,Vegan Delight,University,Japanese,$$,Decent restaurant with reasonable prices.,4.1
+rest_30,Taco Truck,University,Japanese,$$$$,Terrible food and rude staff. Would not recommend.,0.8
+rest_31,Pasta Place,University,Italian,$,Terrible food and rude staff. Would not recommend.,3.1
+rest_32,Burger House,Downtown,Japanese,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.3
+rest_33,Steakhouse,Downtown,Mexican,$$$$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_34,Fine Dining,Beach,Japanese,$$$,Terrible food and rude staff. Would not recommend.,2.8
+rest_35,Taco Truck,Downtown,Mexican,$$$,Perfect place for dinner. Great ambiance and taste.,5.0
+rest_36,Coffee Corner,University,Vegetarian,$$$,Disappointing experience. Food was cold and service was slow.,2.6
+rest_37,Coffee Corner,Mall,Coffee,$,Worst restaurant experience ever. Avoid this place.,1.1
+rest_38,Pizza Palace,Beach,Mexican,$$$$,Decent restaurant with reasonable prices.,3.1
+rest_39,Sushi Zen,Beach,Japanese,$$,Outstanding experience. The food was delicious.,5.2
+rest_40,Burger House,Beach,Vegetarian,$,Average experience. Food was fine but not amazing.,3.1
+rest_41,Sushi Zen,University,Japanese,$$$$,"Good food, decent service. Pretty average overall.",3.8
+rest_42,Fine Dining,Mall,Mexican,$,Amazing food and great service! Highly recommend.,5.0
+rest_43,Sushi Zen,University,Italian,$$$$,Disappointing experience. Food was cold and service was slow.,2.1
+rest_44,Pasta Place,Downtown,Japanese,$$$$,Not worth the money. Poor quality and bad service.,2.6
+rest_45,BBQ Joint,Suburb,BBQ,$$,Terrible food and rude staff. Would not recommend.,2.6
+rest_46,Steakhouse,Suburb,American,$,Amazing food and great service! Highly recommend.,3.9
+rest_47,Steakhouse,Suburb,Japanese,$$,Amazing food and great service! Highly recommend.,5.2
+rest_48,Steakhouse,Downtown,Mexican,$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_49,Sushi Zen,University,American,$$,Terrible food and rude staff. Would not recommend.,3.1
+rest_50,Coffee Corner,Mall,Italian,$$,"Good food, decent service. Pretty average overall.",3.2
+rest_51,Pizza Palace,University,American,$$,Terrible food and rude staff. Would not recommend.,2.3
+rest_52,Fine Dining,Downtown,Coffee,$$$$,Disappointing experience. Food was cold and service was slow.,2.5
+rest_53,Taco Truck,Mall,BBQ,$$$$,"Good food, decent service. Pretty average overall.",3.8
+rest_54,Burger House,University,American,$$,Worst restaurant experience ever. Avoid this place.,0.9
+rest_55,Pasta Place,Suburb,Coffee,$$,Outstanding experience. The food was delicious.,4.0
+rest_56,Vegan Delight,University,Coffee,$,Disappointing experience. Food was cold and service was slow.,0.9
+rest_57,Coffee Corner,Downtown,Coffee,$,"Good food, decent service. Pretty average overall.",3.4
+rest_58,Pasta Place,Beach,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_59,Coffee Corner,Downtown,Coffee,$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_60,Pizza Palace,University,Coffee,$$$$,Not worth the money. Poor quality and bad service.,-0.6
+rest_61,Pizza Palace,Beach,BBQ,$$,"Good food, decent service. Pretty average overall.",3.0
+rest_62,Taco Truck,Suburb,Mexican,$$$,Terrible food and rude staff. Would not recommend.,1.6
+rest_63,Fine Dining,Beach,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,1.3
+rest_64,Burger House,Downtown,Mexican,$$$$,Average experience. Food was fine but not amazing.,2.6
+rest_65,Pizza Palace,Downtown,Coffee,$$$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_66,Sushi Zen,Downtown,Italian,$$$$,Perfect place for dinner. Great ambiance and taste.,4.2
+rest_67,Burger House,Beach,Japanese,$$,"Good food, decent service. Pretty average overall.",3.4
+rest_68,Steakhouse,Beach,American,$$,Not worth the money. Poor quality and bad service.,1.1
+rest_69,Steakhouse,Beach,American,$,Perfect place for dinner. Great ambiance and taste.,3.9
+rest_70,Taco Truck,Downtown,Coffee,$,Not worth the money. Poor quality and bad service.,3.0
+rest_71,Sushi Zen,Downtown,Japanese,$$$$,Disappointing experience. Food was cold and service was slow.,0.6
+rest_72,Pasta Place,Beach,Mexican,$,Decent restaurant with reasonable prices.,3.5
+rest_73,Pizza Palace,Downtown,Vegetarian,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.4
+rest_74,Sushi Zen,Downtown,Mexican,$$$$,Outstanding experience. The food was delicious.,4.7
+rest_75,Taco Truck,Mall,American,$$$,Disappointing experience. Food was cold and service was slow.,1.0
+rest_76,Sushi Zen,University,Italian,$$$$,Average experience. Food was fine but not amazing.,4.6
+rest_77,Vegan Delight,Suburb,American,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.7
+rest_78,Pasta Place,Beach,American,$,Excellent quality and atmosphere. Will definitely come back.,4.3
+rest_79,Coffee Corner,Mall,Coffee,$,Amazing food and great service! Highly recommend.,3.9
+rest_80,Pasta Place,Downtown,Coffee,$$$$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_81,Steakhouse,Mall,BBQ,$$,Disappointing experience. Food was cold and service was slow.,3.8
+rest_82,Burger House,University,Vegetarian,$$,Average experience. Food was fine but not amazing.,4.1
+rest_83,Pizza Palace,Mall,Coffee,$$$$,Outstanding experience. The food was delicious.,4.4
+rest_84,Pizza Palace,Downtown,Italian,$$,Not worth the money. Poor quality and bad service.,2.9
+rest_85,Fine Dining,University,Japanese,$$$,Excellent quality and atmosphere. Will definitely come back.,4.9
+rest_86,Vegan Delight,Downtown,Vegetarian,$$$,Disappointing experience. Food was cold and service was slow.,2.4
+rest_87,Pasta Place,Downtown,Japanese,$$$$,Perfect place for dinner. Great ambiance and taste.,5.6
+rest_88,BBQ Joint,University,Mexican,$,Worst restaurant experience ever. Avoid this place.,1.5
+rest_89,Burger House,University,Mexican,$,Perfect place for dinner. Great ambiance and taste.,5.7
+rest_90,Coffee Corner,Downtown,Italian,$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_91,Sushi Zen,Beach,Vegetarian,$$,Disappointing experience. Food was cold and service was slow.,2.9
+rest_92,Vegan Delight,Suburb,American,$$$$,Outstanding experience. The food was delicious.,5.1
+rest_93,Pizza Palace,Mall,Coffee,$$,Not worth the money. Poor quality and bad service.,2.3
+rest_94,Pizza Palace,Beach,Italian,$$,Terrible food and rude staff. Would not recommend.,1.1
+rest_95,Coffee Corner,University,Italian,$,Excellent quality and atmosphere. Will definitely come back.,5.0
+rest_96,Sushi Zen,Beach,BBQ,$,"Nice place, food was okay. Nothing extraordinary.",3.7
+rest_97,Vegan Delight,Downtown,Japanese,$,"Nice place, food was okay. Nothing extraordinary.",3.7
+rest_98,Pizza Palace,Downtown,American,$$$$,Terrible food and rude staff. Would not recommend.,2.2
+rest_99,Coffee Corner,Mall,Japanese,$$,Excellent quality and atmosphere. Will definitely come back.,5.4
+rest_100,Fine Dining,Mall,Italian,$,Terrible food and rude staff. Would not recommend.,2.2
+rest_101,Burger House,Mall,Japanese,$$$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_102,Burger House,Suburb,American,$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_103,Vegan Delight,Downtown,BBQ,$$$$,Not worth the money. Poor quality and bad service.,2.0
+rest_104,Sushi Zen,Downtown,Coffee,$,Worst restaurant experience ever. Avoid this place.,1.8
+rest_105,Taco Truck,Beach,American,$$,Disappointing experience. Food was cold and service was slow.,3.3
+rest_106,Sushi Zen,Downtown,BBQ,$$$,Decent restaurant with reasonable prices.,3.5
+rest_107,BBQ Joint,University,Italian,$$$,Outstanding experience. The food was delicious.,4.0
+rest_108,Burger House,Beach,American,$$$,Disappointing experience. Food was cold and service was slow.,0.5
+rest_109,Coffee Corner,Beach,Vegetarian,$,Average experience. Food was fine but not amazing.,2.5
+rest_110,Steakhouse,Suburb,Italian,$$,Terrible food and rude staff. Would not recommend.,2.0
+rest_111,Pizza Palace,Suburb,Mexican,$,Terrible food and rude staff. Would not recommend.,1.4
+rest_112,Taco Truck,Suburb,Mexican,$$$,"Nice place, food was okay. Nothing extraordinary.",3.6
+rest_113,Pasta Place,Mall,BBQ,$$$$,Not worth the money. Poor quality and bad service.,0.9
+rest_114,Coffee Corner,Mall,Japanese,$$$,Terrible food and rude staff. Would not recommend.,1.3
+rest_115,Vegan Delight,Downtown,BBQ,$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_116,Vegan Delight,Downtown,Coffee,$$$$,Not worth the money. Poor quality and bad service.,2.9
+rest_117,Taco Truck,Suburb,BBQ,$$$$,Average experience. Food was fine but not amazing.,4.1
+rest_118,Sushi Zen,Suburb,Italian,$,Not worth the money. Poor quality and bad service.,1.7
+rest_119,Coffee Corner,Beach,Italian,$,Disappointing experience. Food was cold and service was slow.,1.3
+rest_120,Coffee Corner,University,Vegetarian,$$$,Not worth the money. Poor quality and bad service.,1.4
+rest_121,BBQ Joint,Beach,Mexican,$$$$,Not worth the money. Poor quality and bad service.,1.0
+rest_122,Taco Truck,University,Japanese,$$$$,Not worth the money. Poor quality and bad service.,0.7
+rest_123,Sushi Zen,Downtown,American,$$$,"Nice place, food was okay. Nothing extraordinary.",2.9
+rest_124,Sushi Zen,Beach,Mexican,$,Not worth the money. Poor quality and bad service.,1.3
+rest_125,Taco Truck,Downtown,Mexican,$$$,"Nice place, food was okay. Nothing extraordinary.",4.1
+rest_126,Coffee Corner,Beach,Vegetarian,$$$,Amazing food and great service! Highly recommend.,4.4
+rest_127,Burger House,Suburb,Coffee,$$$,"Nice place, food was okay. Nothing extraordinary.",3.2
+rest_128,BBQ Joint,Suburb,Mexican,$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_129,BBQ Joint,Mall,Vegetarian,$$$,Excellent quality and atmosphere. Will definitely come back.,5.4
+rest_130,Burger House,Beach,Japanese,$,Terrible food and rude staff. Would not recommend.,1.9
+rest_131,Coffee Corner,University,Coffee,$$$$,Amazing food and great service! Highly recommend.,4.2
+rest_132,Sushi Zen,Beach,Coffee,$,Not worth the money. Poor quality and bad service.,0.8
+rest_133,Steakhouse,Downtown,American,$$$$,Worst restaurant experience ever. Avoid this place.,3.0
+rest_134,Sushi Zen,Beach,Vegetarian,$,Decent restaurant with reasonable prices.,3.1
+rest_135,Pasta Place,Suburb,Vegetarian,$,Outstanding experience. The food was delicious.,5.1
+rest_136,Pasta Place,Mall,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_137,Pizza Palace,University,Vegetarian,$$$,"Good food, decent service. Pretty average overall.",3.1
+rest_138,Coffee Corner,Downtown,Italian,$,Terrible food and rude staff. Would not recommend.,1.8
+rest_139,Burger House,Suburb,Coffee,$$$,Excellent quality and atmosphere. Will definitely come back.,3.8
+rest_140,Coffee Corner,Beach,BBQ,$$$,Perfect place for dinner. Great ambiance and taste.,4.4
+rest_141,BBQ Joint,Beach,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,3.9
+rest_142,Burger House,Mall,BBQ,$$$,Average experience. Food was fine but not amazing.,4.1
+rest_143,Taco Truck,Mall,Vegetarian,$$,Not worth the money. Poor quality and bad service.,3.2
+rest_144,BBQ Joint,Suburb,Vegetarian,$$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_145,Taco Truck,University,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,0.6
+rest_146,Steakhouse,Downtown,Mexican,$$$,"Nice place, food was okay. Nothing extraordinary.",3.3
+rest_147,Steakhouse,University,Vegetarian,$$$,Outstanding experience. The food was delicious.,4.4
+rest_148,Coffee Corner,Mall,BBQ,$,Disappointing experience. Food was cold and service was slow.,3.1
+rest_149,Fine Dining,Suburb,Italian,$$$,Disappointing experience. Food was cold and service was slow.,2.3
+rest_150,Steakhouse,Mall,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_151,Sushi Zen,Downtown,BBQ,$$$$,Worst restaurant experience ever. Avoid this place.,3.5
+rest_152,Pizza Palace,Downtown,Coffee,$$$,Not worth the money. Poor quality and bad service.,2.0
+rest_153,BBQ Joint,Downtown,BBQ,$,Not worth the money. Poor quality and bad service.,1.7
+rest_154,Pasta Place,Mall,Japanese,$$$$,Perfect place for dinner. Great ambiance and taste.,5.7
+rest_155,BBQ Joint,Mall,American,$,Outstanding experience. The food was delicious.,3.8
+rest_156,Burger House,Suburb,Vegetarian,$$$$,Not worth the money. Poor quality and bad service.,2.3
+rest_157,Pizza Palace,Beach,BBQ,$$$,Excellent quality and atmosphere. Will definitely come back.,4.1
+rest_158,Steakhouse,Mall,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,2.5
+rest_159,Vegan Delight,Mall,BBQ,$$$,Average experience. Food was fine but not amazing.,3.5
+rest_160,Coffee Corner,Downtown,BBQ,$,Disappointing experience. Food was cold and service was slow.,2.6
+rest_161,Sushi Zen,Mall,Mexican,$$$$,"Good food, decent service. Pretty average overall.",3.9
+rest_162,Pasta Place,Suburb,BBQ,$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_163,Burger House,Suburb,Italian,$$$,Decent restaurant with reasonable prices.,3.9
+rest_164,Steakhouse,Suburb,Japanese,$$$,Worst restaurant experience ever. Avoid this place.,0.5
+rest_165,Vegan Delight,Suburb,Coffee,$$$$,Not worth the money. Poor quality and bad service.,2.8
+rest_166,Coffee Corner,University,Italian,$$,Decent restaurant with reasonable prices.,3.3
+rest_167,Pizza Palace,Suburb,Japanese,$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_168,Burger House,Beach,Italian,$$$,Not worth the money. Poor quality and bad service.,1.2
+rest_169,Pasta Place,Beach,Japanese,$$,Amazing food and great service! Highly recommend.,4.7
+rest_170,Steakhouse,University,Italian,$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_171,Pasta Place,Beach,American,$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_172,Coffee Corner,Mall,American,$$$$,"Good food, decent service. Pretty average overall.",2.6
+rest_173,Steakhouse,Suburb,Mexican,$$,Decent restaurant with reasonable prices.,3.3
+rest_174,Fine Dining,University,Japanese,$$,Terrible food and rude staff. Would not recommend.,0.8
+rest_175,Pizza Palace,Mall,BBQ,$$$$,"Nice place, food was okay. Nothing extraordinary.",2.6
+rest_176,Pasta Place,Beach,Italian,$$,Worst restaurant experience ever. Avoid this place.,1.3
+rest_177,Pizza Palace,Mall,Coffee,$$$,Not worth the money. Poor quality and bad service.,2.2
+rest_178,Burger House,Beach,Italian,$,Disappointing experience. Food was cold and service was slow.,3.4
+rest_179,Steakhouse,Downtown,BBQ,$$$,Amazing food and great service! Highly recommend.,4.3
+rest_180,Sushi Zen,Suburb,Mexican,$$$,Terrible food and rude staff. Would not recommend.,2.2
+rest_181,BBQ Joint,Mall,BBQ,$,Amazing food and great service! Highly recommend.,4.3
+rest_182,Coffee Corner,Downtown,American,$,Decent restaurant with reasonable prices.,4.0
+rest_183,Fine Dining,Downtown,Japanese,$$$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_184,Pasta Place,Beach,American,$$$,Outstanding experience. The food was delicious.,5.1
+rest_185,Pasta Place,Downtown,Vegetarian,$$$,Worst restaurant experience ever. Avoid this place.,1.1
+rest_186,Burger House,Mall,Coffee,$$$,Terrible food and rude staff. Would not recommend.,3.1
+rest_187,BBQ Joint,Downtown,Mexican,$,"Good food, decent service. Pretty average overall.",2.7
+rest_188,Burger House,Downtown,Coffee,$$,Excellent quality and atmosphere. Will definitely come back.,4.9
+rest_189,Sushi Zen,Mall,BBQ,$$,Not worth the money. Poor quality and bad service.,2.4
+rest_190,Pizza Palace,Beach,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,2.7
+rest_191,Pasta Place,University,Coffee,$,Terrible food and rude staff. Would not recommend.,2.7
+rest_192,BBQ Joint,Suburb,Mexican,$$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_193,Vegan Delight,Downtown,Italian,$$$$,Terrible food and rude staff. Would not recommend.,1.4
+rest_194,Steakhouse,Beach,Coffee,$,Not worth the money. Poor quality and bad service.,1.8
+rest_195,Burger House,Downtown,BBQ,$$$$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_196,Taco Truck,Beach,BBQ,$$,"Good food, decent service. Pretty average overall.",3.2
+rest_197,Steakhouse,Mall,Vegetarian,$,Terrible food and rude staff. Would not recommend.,1.2
+rest_198,Pasta Place,Downtown,Italian,$$$,"Good food, decent service. Pretty average overall.",3.2
+rest_199,Burger House,Suburb,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,1.0
+rest_200,Sushi Zen,Beach,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,0.7
+rest_201,Vegan Delight,Mall,Japanese,$$$$,Terrible food and rude staff. Would not recommend.,3.0
+rest_202,Vegan Delight,Suburb,Mexican,$$,Perfect place for dinner. Great ambiance and taste.,4.3
+rest_203,Burger House,University,BBQ,$$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_204,Steakhouse,Suburb,Vegetarian,$,Disappointing experience. Food was cold and service was slow.,2.3
+rest_205,Sushi Zen,Suburb,Japanese,$,Not worth the money. Poor quality and bad service.,2.1
+rest_206,BBQ Joint,Mall,Mexican,$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_207,Vegan Delight,Beach,American,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.7
+rest_208,Pasta Place,Beach,Japanese,$,Outstanding experience. The food was delicious.,4.2
+rest_209,Pasta Place,Suburb,Mexican,$$,Amazing food and great service! Highly recommend.,4.6
+rest_210,Pasta Place,Suburb,Coffee,$$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_211,BBQ Joint,Beach,Japanese,$$$$,Not worth the money. Poor quality and bad service.,1.8
+rest_212,Pasta Place,Suburb,Italian,$$$$,Perfect place for dinner. Great ambiance and taste.,4.7
+rest_213,Coffee Corner,University,Mexican,$$$$,Perfect place for dinner. Great ambiance and taste.,4.2
+rest_214,Pizza Palace,University,Vegetarian,$,"Good food, decent service. Pretty average overall.",3.0
+rest_215,Sushi Zen,University,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,2.1
+rest_216,Pizza Palace,Mall,Japanese,$$,Not worth the money. Poor quality and bad service.,0.3
+rest_217,Pasta Place,Beach,Coffee,$$$,Not worth the money. Poor quality and bad service.,0.8
+rest_218,Taco Truck,Mall,Japanese,$$$,Perfect place for dinner. Great ambiance and taste.,3.9
+rest_219,Steakhouse,University,Vegetarian,$$$,Decent restaurant with reasonable prices.,3.7
+rest_220,Pizza Palace,Downtown,Mexican,$$,Perfect place for dinner. Great ambiance and taste.,3.8
+rest_221,Vegan Delight,Downtown,Coffee,$,Terrible food and rude staff. Would not recommend.,1.7
+rest_222,Burger House,University,BBQ,$$$,Perfect place for dinner. Great ambiance and taste.,4.8
+rest_223,Vegan Delight,Downtown,Vegetarian,$$$$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_224,Coffee Corner,Downtown,Mexican,$$$,"Good food, decent service. Pretty average overall.",4.0
+rest_225,Pizza Palace,Beach,American,$$,Not worth the money. Poor quality and bad service.,2.2
+rest_226,Coffee Corner,Mall,Coffee,$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_227,Sushi Zen,Downtown,Italian,$$$$,Perfect place for dinner. Great ambiance and taste.,5.2
+rest_228,Coffee Corner,University,Mexican,$,Average experience. Food was fine but not amazing.,3.8
+rest_229,Pizza Palace,Beach,Mexican,$$,Not worth the money. Poor quality and bad service.,2.6
+rest_230,Coffee Corner,Suburb,Vegetarian,$$,Excellent quality and atmosphere. Will definitely come back.,4.3
+rest_231,BBQ Joint,Mall,Coffee,$$$,Amazing food and great service! Highly recommend.,4.4
+rest_232,Coffee Corner,Downtown,BBQ,$$$,"Nice place, food was okay. Nothing extraordinary.",3.8
+rest_233,Pasta Place,Mall,Mexican,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.5
+rest_234,Coffee Corner,Suburb,BBQ,$$$,Worst restaurant experience ever. Avoid this place.,1.0
+rest_235,Coffee Corner,University,BBQ,$$$$,Disappointing experience. Food was cold and service was slow.,1.7
+rest_236,Sushi Zen,Suburb,Japanese,$$$,Disappointing experience. Food was cold and service was slow.,3.1
+rest_237,Pasta Place,Mall,Mexican,$$,Terrible food and rude staff. Would not recommend.,0.8
+rest_238,Coffee Corner,Beach,Italian,$$$,"Nice place, food was okay. Nothing extraordinary.",2.9
+rest_239,Coffee Corner,Downtown,BBQ,$$$$,Disappointing experience. Food was cold and service was slow.,1.5
+rest_240,Steakhouse,Beach,Mexican,$,Worst restaurant experience ever. Avoid this place.,2.4
+rest_241,Burger House,Downtown,Japanese,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.1
+rest_242,Fine Dining,Suburb,Mexican,$$,Average experience. Food was fine but not amazing.,2.6
+rest_243,Sushi Zen,Suburb,Vegetarian,$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_244,Burger House,Beach,BBQ,$,Worst restaurant experience ever. Avoid this place.,2.4
+rest_245,Steakhouse,University,Vegetarian,$$,"Good food, decent service. Pretty average overall.",2.3
+rest_246,Fine Dining,Beach,Italian,$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_247,Vegan Delight,University,American,$$$,Terrible food and rude staff. Would not recommend.,0.2
+rest_248,Vegan Delight,Downtown,Mexican,$$,Amazing food and great service! Highly recommend.,5.0
+rest_249,BBQ Joint,University,Coffee,$$$,Terrible food and rude staff. Would not recommend.,2.5
+rest_250,Steakhouse,Mall,Vegetarian,$$,Disappointing experience. Food was cold and service was slow.,2.8
+rest_251,Pizza Palace,Beach,Mexican,$$$$,"Good food, decent service. Pretty average overall.",3.2
+rest_252,Vegan Delight,University,Mexican,$,Decent restaurant with reasonable prices.,3.3
+rest_253,Pizza Palace,University,Mexican,$$$,Perfect place for dinner. Great ambiance and taste.,5.5
+rest_254,Taco Truck,Suburb,Vegetarian,$$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_255,Fine Dining,Mall,Coffee,$,"Nice place, food was okay. Nothing extraordinary.",2.5
+rest_256,Steakhouse,University,Coffee,$$,Outstanding experience. The food was delicious.,4.9
+rest_257,BBQ Joint,Mall,American,$$$,Average experience. Food was fine but not amazing.,3.9
+rest_258,Pasta Place,Beach,Mexican,$$$$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_259,Coffee Corner,Beach,BBQ,$$,Disappointing experience. Food was cold and service was slow.,1.7
+rest_260,Pasta Place,Suburb,Japanese,$$,Not worth the money. Poor quality and bad service.,1.6
+rest_261,BBQ Joint,Downtown,Mexican,$$$,Excellent quality and atmosphere. Will definitely come back.,4.9
+rest_262,Taco Truck,Downtown,Italian,$$$,Excellent quality and atmosphere. Will definitely come back.,5.6
+rest_263,Steakhouse,University,American,$$,Decent restaurant with reasonable prices.,2.8
+rest_264,Vegan Delight,Downtown,Italian,$,Amazing food and great service! Highly recommend.,4.4
+rest_265,Taco Truck,Suburb,Coffee,$$,Not worth the money. Poor quality and bad service.,2.1
+rest_266,Sushi Zen,Suburb,American,$,Outstanding experience. The food was delicious.,4.0
+rest_267,Coffee Corner,Downtown,Coffee,$$$,"Nice place, food was okay. Nothing extraordinary.",4.0
+rest_268,Pasta Place,Beach,Japanese,$$$$,"Good food, decent service. Pretty average overall.",2.9
+rest_269,Coffee Corner,Suburb,Japanese,$$$,Not worth the money. Poor quality and bad service.,1.0
+rest_270,Steakhouse,Suburb,Vegetarian,$,Not worth the money. Poor quality and bad service.,1.7
+rest_271,Taco Truck,Mall,BBQ,$$,Average experience. Food was fine but not amazing.,4.1
+rest_272,Fine Dining,Mall,BBQ,$$$$,Average experience. Food was fine but not amazing.,3.7
+rest_273,Sushi Zen,University,Coffee,$,Not worth the money. Poor quality and bad service.,2.6
+rest_274,Taco Truck,Beach,Mexican,$$,Terrible food and rude staff. Would not recommend.,3.5
+rest_275,Steakhouse,University,Vegetarian,$$,Disappointing experience. Food was cold and service was slow.,3.1
+rest_276,Taco Truck,Suburb,Italian,$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_277,Pasta Place,Downtown,American,$,Worst restaurant experience ever. Avoid this place.,2.2
+rest_278,Taco Truck,University,Vegetarian,$$$,Perfect place for dinner. Great ambiance and taste.,4.3
+rest_279,Pasta Place,Beach,Vegetarian,$$$$,Disappointing experience. Food was cold and service was slow.,1.7
+rest_280,Steakhouse,Suburb,Italian,$,Perfect place for dinner. Great ambiance and taste.,4.0
+rest_281,Fine Dining,University,American,$$$$,Perfect place for dinner. Great ambiance and taste.,3.9
+rest_282,Pasta Place,Suburb,Italian,$$,Excellent quality and atmosphere. Will definitely come back.,5.2
+rest_283,Pizza Palace,Mall,Mexican,$$,Disappointing experience. Food was cold and service was slow.,2.3
+rest_284,Pizza Palace,Beach,BBQ,$$$,Average experience. Food was fine but not amazing.,2.8
+rest_285,Vegan Delight,Downtown,American,$$$$,Disappointing experience. Food was cold and service was slow.,1.9
+rest_286,Burger House,Mall,American,$$,Disappointing experience. Food was cold and service was slow.,3.1
+rest_287,Pasta Place,Beach,Vegetarian,$$$$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_288,Taco Truck,Mall,Italian,$$$$,Not worth the money. Poor quality and bad service.,2.2
+rest_289,Pizza Palace,University,American,$$$$,Outstanding experience. The food was delicious.,4.1
+rest_290,Fine Dining,Suburb,Japanese,$$,Not worth the money. Poor quality and bad service.,2.5
+rest_291,Pasta Place,University,American,$$,"Nice place, food was okay. Nothing extraordinary.",2.6
+rest_292,Pasta Place,University,Vegetarian,$$$$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_293,Vegan Delight,Suburb,Vegetarian,$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_294,Pizza Palace,University,Mexican,$$$,Amazing food and great service! Highly recommend.,4.3
+rest_295,Fine Dining,University,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_296,Pizza Palace,Beach,Mexican,$$,Disappointing experience. Food was cold and service was slow.,1.2
+rest_297,Fine Dining,Suburb,Japanese,$,Decent restaurant with reasonable prices.,2.5
+rest_298,Sushi Zen,University,Vegetarian,$$$,Excellent quality and atmosphere. Will definitely come back.,5.2
+rest_299,Coffee Corner,University,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_300,Pizza Palace,Suburb,Vegetarian,$$,"Nice place, food was okay. Nothing extraordinary.",3.8
+rest_301,Taco Truck,Downtown,BBQ,$,Terrible food and rude staff. Would not recommend.,1.4
+rest_302,Burger House,Mall,American,$$,Perfect place for dinner. Great ambiance and taste.,5.0
+rest_303,Coffee Corner,Downtown,Mexican,$$$,Not worth the money. Poor quality and bad service.,3.3
+rest_304,Coffee Corner,Beach,Mexican,$$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_305,BBQ Joint,Beach,American,$$$$,Worst restaurant experience ever. Avoid this place.,1.0
+rest_306,Taco Truck,Suburb,Coffee,$$$$,Perfect place for dinner. Great ambiance and taste.,4.7
+rest_307,Pasta Place,Mall,BBQ,$$$,"Nice place, food was okay. Nothing extraordinary.",2.6
+rest_308,Steakhouse,Downtown,American,$$,Amazing food and great service! Highly recommend.,4.2
+rest_309,Pasta Place,Mall,Italian,$$$,Worst restaurant experience ever. Avoid this place.,1.7
+rest_310,Sushi Zen,University,Italian,$$$$,Average experience. Food was fine but not amazing.,3.8
+rest_311,Taco Truck,Beach,Mexican,$$$$,Decent restaurant with reasonable prices.,3.7
+rest_312,Burger House,Beach,Mexican,$$$,Disappointing experience. Food was cold and service was slow.,3.0
+rest_313,Coffee Corner,Beach,Coffee,$$,Outstanding experience. The food was delicious.,3.8
+rest_314,Burger House,Mall,Coffee,$$,Amazing food and great service! Highly recommend.,3.9
+rest_315,Pasta Place,Beach,Italian,$,Not worth the money. Poor quality and bad service.,1.2
+rest_316,Fine Dining,Beach,American,$,Perfect place for dinner. Great ambiance and taste.,4.1
+rest_317,Fine Dining,University,BBQ,$,Worst restaurant experience ever. Avoid this place.,2.6
+rest_318,Burger House,University,Mexican,$$,Disappointing experience. Food was cold and service was slow.,3.4
+rest_319,Steakhouse,Beach,American,$,Worst restaurant experience ever. Avoid this place.,1.7
+rest_320,Pizza Palace,Downtown,Italian,$,Perfect place for dinner. Great ambiance and taste.,4.6
+rest_321,Steakhouse,University,Coffee,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.3
+rest_322,BBQ Joint,Mall,Vegetarian,$$$$,Disappointing experience. Food was cold and service was slow.,1.9
+rest_323,Sushi Zen,Beach,Mexican,$,Worst restaurant experience ever. Avoid this place.,2.4
+rest_324,BBQ Joint,Downtown,BBQ,$$$,Decent restaurant with reasonable prices.,3.0
+rest_325,Taco Truck,Mall,BBQ,$$$,Terrible food and rude staff. Would not recommend.,1.3
+rest_326,Steakhouse,Beach,Coffee,$$,Perfect place for dinner. Great ambiance and taste.,4.8
+rest_327,Vegan Delight,Downtown,American,$$$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_328,Taco Truck,University,Vegetarian,$,"Nice place, food was okay. Nothing extraordinary.",4.1
+rest_329,Steakhouse,Beach,Mexican,$$$$,Not worth the money. Poor quality and bad service.,2.9
+rest_330,Coffee Corner,Beach,Coffee,$$$$,Average experience. Food was fine but not amazing.,3.5
+rest_331,Steakhouse,Downtown,American,$$$,Worst restaurant experience ever. Avoid this place.,1.6
+rest_332,Steakhouse,Downtown,American,$$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_333,Pizza Palace,Beach,Japanese,$$,Outstanding experience. The food was delicious.,4.1
+rest_334,Pasta Place,Downtown,Mexican,$,"Good food, decent service. Pretty average overall.",3.1
+rest_335,BBQ Joint,University,Japanese,$$$$,Decent restaurant with reasonable prices.,4.0
+rest_336,Vegan Delight,University,Coffee,$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_337,Burger House,Mall,BBQ,$$$$,Not worth the money. Poor quality and bad service.,2.5
+rest_338,Fine Dining,Beach,Italian,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.4
+rest_339,Pasta Place,University,BBQ,$,Outstanding experience. The food was delicious.,4.4
+rest_340,BBQ Joint,Suburb,American,$$$$,Perfect place for dinner. Great ambiance and taste.,4.1
+rest_341,Steakhouse,Suburb,Japanese,$,Average experience. Food was fine but not amazing.,2.8
+rest_342,Pasta Place,Mall,Japanese,$$,Disappointing experience. Food was cold and service was slow.,3.2
+rest_343,Steakhouse,Suburb,American,$$,Excellent quality and atmosphere. Will definitely come back.,5.6
+rest_344,Vegan Delight,Suburb,Coffee,$,Average experience. Food was fine but not amazing.,3.5
+rest_345,BBQ Joint,Mall,Coffee,$$,Disappointing experience. Food was cold and service was slow.,2.1
+rest_346,Taco Truck,University,American,$$$$,Not worth the money. Poor quality and bad service.,1.2
+rest_347,BBQ Joint,Beach,American,$$,Worst restaurant experience ever. Avoid this place.,0.8
+rest_348,Vegan Delight,Beach,Mexican,$,Average experience. Food was fine but not amazing.,4.2
+rest_349,Fine Dining,Suburb,BBQ,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.3
+rest_350,BBQ Joint,Suburb,Vegetarian,$$,Average experience. Food was fine but not amazing.,3.4
+rest_351,Sushi Zen,Beach,Mexican,$$,Amazing food and great service! Highly recommend.,5.6
+rest_352,Taco Truck,Mall,Coffee,$$$$,Disappointing experience. Food was cold and service was slow.,1.1
+rest_353,Taco Truck,Downtown,Japanese,$$$$,Decent restaurant with reasonable prices.,3.9
+rest_354,Vegan Delight,University,Vegetarian,$,Not worth the money. Poor quality and bad service.,2.3
+rest_355,Coffee Corner,University,Japanese,$$$,Average experience. Food was fine but not amazing.,3.6
+rest_356,Fine Dining,Downtown,Mexican,$,Outstanding experience. The food was delicious.,4.7
+rest_357,Pizza Palace,Mall,Coffee,$$$,Excellent quality and atmosphere. Will definitely come back.,5.1
+rest_358,Sushi Zen,Suburb,Japanese,$,Amazing food and great service! Highly recommend.,3.0
+rest_359,Fine Dining,University,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,0.9
+rest_360,Pasta Place,Suburb,Japanese,$,Perfect place for dinner. Great ambiance and taste.,3.8
+rest_361,Vegan Delight,University,Italian,$$$$,Worst restaurant experience ever. Avoid this place.,1.3
+rest_362,Steakhouse,University,BBQ,$$$,Not worth the money. Poor quality and bad service.,1.7
+rest_363,Coffee Corner,Suburb,Italian,$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_364,Taco Truck,Mall,Mexican,$$,Amazing food and great service! Highly recommend.,4.0
+rest_365,Pasta Place,Suburb,Japanese,$$$$,Worst restaurant experience ever. Avoid this place.,1.0
+rest_366,Pasta Place,Beach,American,$$,Worst restaurant experience ever. Avoid this place.,2.6
+rest_367,Fine Dining,Suburb,Coffee,$$$,"Good food, decent service. Pretty average overall.",5.1
+rest_368,BBQ Joint,Downtown,Japanese,$$$,Perfect place for dinner. Great ambiance and taste.,4.5
+rest_369,Coffee Corner,Downtown,Italian,$$$$,Not worth the money. Poor quality and bad service.,1.4
+rest_370,Steakhouse,Mall,Italian,$$$,"Good food, decent service. Pretty average overall.",3.2
+rest_371,Burger House,Downtown,American,$,Not worth the money. Poor quality and bad service.,1.8
+rest_372,Vegan Delight,Suburb,American,$$,Outstanding experience. The food was delicious.,4.8
+rest_373,BBQ Joint,University,Japanese,$$,Outstanding experience. The food was delicious.,5.9
+rest_374,Pizza Palace,Beach,Mexican,$$,Not worth the money. Poor quality and bad service.,2.5
+rest_375,Taco Truck,University,Vegetarian,$$$,Perfect place for dinner. Great ambiance and taste.,4.4
+rest_376,Steakhouse,University,American,$,Disappointing experience. Food was cold and service was slow.,1.0
+rest_377,Pizza Palace,Suburb,Mexican,$$$,Worst restaurant experience ever. Avoid this place.,1.1
+rest_378,Pasta Place,Downtown,Japanese,$$,Disappointing experience. Food was cold and service was slow.,0.5
+rest_379,Vegan Delight,University,Coffee,$,Disappointing experience. Food was cold and service was slow.,2.3
+rest_380,BBQ Joint,Suburb,American,$$$$,Average experience. Food was fine but not amazing.,4.0
+rest_381,Sushi Zen,Mall,American,$$$,Amazing food and great service! Highly recommend.,4.4
+rest_382,Pizza Palace,Beach,Mexican,$$$$,Worst restaurant experience ever. Avoid this place.,1.2
+rest_383,Pizza Palace,Beach,BBQ,$,"Good food, decent service. Pretty average overall.",4.2
+rest_384,Burger House,University,Mexican,$$,Outstanding experience. The food was delicious.,5.5
+rest_385,Vegan Delight,University,American,$$,Disappointing experience. Food was cold and service was slow.,2.6
+rest_386,Sushi Zen,Beach,Mexican,$,Not worth the money. Poor quality and bad service.,3.1
+rest_387,Vegan Delight,Mall,American,$$$,"Good food, decent service. Pretty average overall.",3.8
+rest_388,Fine Dining,Suburb,Vegetarian,$$$,Excellent quality and atmosphere. Will definitely come back.,4.8
+rest_389,BBQ Joint,Suburb,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,1.5
+rest_390,Burger House,Downtown,Japanese,$$$,Terrible food and rude staff. Would not recommend.,2.4
+rest_391,Coffee Corner,Downtown,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,3.6
+rest_392,Sushi Zen,Downtown,Mexican,$,"Nice place, food was okay. Nothing extraordinary.",3.2
+rest_393,Taco Truck,University,Italian,$$$$,Worst restaurant experience ever. Avoid this place.,1.5
+rest_394,Sushi Zen,University,American,$,Terrible food and rude staff. Would not recommend.,2.4
+rest_395,Taco Truck,University,Italian,$$$,Perfect place for dinner. Great ambiance and taste.,3.6
+rest_396,Burger House,Mall,Italian,$$,Decent restaurant with reasonable prices.,3.5
+rest_397,Coffee Corner,University,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,0.9
+rest_398,Taco Truck,Downtown,Italian,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.2
+rest_399,Taco Truck,Beach,BBQ,$$,Decent restaurant with reasonable prices.,4.3
+rest_400,Pasta Place,Downtown,Mexican,$$$,Excellent quality and atmosphere. Will definitely come back.,4.3
+rest_401,Taco Truck,Downtown,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,0.9
+rest_402,Taco Truck,Downtown,Vegetarian,$$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_403,Taco Truck,Mall,Mexican,$$$$,Amazing food and great service! Highly recommend.,4.0
+rest_404,Coffee Corner,Downtown,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,1.1
+rest_405,Sushi Zen,Mall,Vegetarian,$$,"Good food, decent service. Pretty average overall.",3.7
+rest_406,Fine Dining,University,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,3.4
+rest_407,BBQ Joint,Downtown,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,3.0
+rest_408,Coffee Corner,University,Vegetarian,$$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_409,BBQ Joint,Beach,Japanese,$$,"Good food, decent service. Pretty average overall.",3.8
+rest_410,Sushi Zen,University,BBQ,$$$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_411,Coffee Corner,University,American,$$$$,Decent restaurant with reasonable prices.,2.2
+rest_412,Vegan Delight,Downtown,BBQ,$$,Disappointing experience. Food was cold and service was slow.,1.7
+rest_413,Sushi Zen,University,American,$,Disappointing experience. Food was cold and service was slow.,2.9
+rest_414,Pizza Palace,Mall,Vegetarian,$$$,Worst restaurant experience ever. Avoid this place.,2.8
+rest_415,Coffee Corner,Downtown,Vegetarian,$,Terrible food and rude staff. Would not recommend.,1.1
+rest_416,Taco Truck,University,Italian,$$,Disappointing experience. Food was cold and service was slow.,3.1
+rest_417,Coffee Corner,Downtown,Italian,$$$$,Disappointing experience. Food was cold and service was slow.,2.7
+rest_418,Pizza Palace,Beach,Japanese,$$$,"Good food, decent service. Pretty average overall.",3.0
+rest_419,Pizza Palace,University,Japanese,$$$$,Amazing food and great service! Highly recommend.,4.2
+rest_420,Fine Dining,Beach,Mexican,$,Disappointing experience. Food was cold and service was slow.,2.6
+rest_421,Pasta Place,Beach,BBQ,$$$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_422,Burger House,Suburb,American,$$$$,Terrible food and rude staff. Would not recommend.,2.2
+rest_423,BBQ Joint,University,Italian,$,Terrible food and rude staff. Would not recommend.,2.8
+rest_424,Vegan Delight,Suburb,BBQ,$,"Nice place, food was okay. Nothing extraordinary.",3.8
+rest_425,Burger House,Mall,Vegetarian,$,Average experience. Food was fine but not amazing.,3.9
+rest_426,Sushi Zen,University,Vegetarian,$$$,"Good food, decent service. Pretty average overall.",4.0
+rest_427,BBQ Joint,Suburb,Italian,$,Terrible food and rude staff. Would not recommend.,2.3
+rest_428,Pizza Palace,Beach,BBQ,$$,Excellent quality and atmosphere. Will definitely come back.,3.7
+rest_429,Pasta Place,Downtown,Vegetarian,$$$$,Terrible food and rude staff. Would not recommend.,2.9
+rest_430,Burger House,University,Japanese,$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_431,Burger House,Mall,Japanese,$$$$,"Good food, decent service. Pretty average overall.",3.8
+rest_432,Pasta Place,Mall,American,$$$,Average experience. Food was fine but not amazing.,3.7
+rest_433,Burger House,University,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,0.4
+rest_434,Pizza Palace,Downtown,BBQ,$$$$,Not worth the money. Poor quality and bad service.,3.0
+rest_435,Pizza Palace,Downtown,Vegetarian,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.1
+rest_436,Taco Truck,University,Vegetarian,$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_437,BBQ Joint,Mall,Japanese,$$$,Not worth the money. Poor quality and bad service.,1.0
+rest_438,Coffee Corner,Mall,Japanese,$$,Not worth the money. Poor quality and bad service.,2.5
+rest_439,Steakhouse,Beach,American,$,Worst restaurant experience ever. Avoid this place.,3.3
+rest_440,Fine Dining,Mall,BBQ,$$,Average experience. Food was fine but not amazing.,3.0
+rest_441,Taco Truck,Downtown,Coffee,$$$$,Worst restaurant experience ever. Avoid this place.,2.4
+rest_442,Fine Dining,Beach,Italian,$,"Good food, decent service. Pretty average overall.",3.4
+rest_443,Sushi Zen,Mall,American,$$,Terrible food and rude staff. Would not recommend.,2.3
+rest_444,Steakhouse,Downtown,Coffee,$$,"Good food, decent service. Pretty average overall.",3.7
+rest_445,Sushi Zen,Downtown,Mexican,$$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_446,Burger House,Mall,Mexican,$$$,Outstanding experience. The food was delicious.,4.3
+rest_447,Vegan Delight,Suburb,Japanese,$,Average experience. Food was fine but not amazing.,4.4
+rest_448,Fine Dining,Downtown,Coffee,$$$$,Outstanding experience. The food was delicious.,4.8
+rest_449,Coffee Corner,Beach,Vegetarian,$$$,"Good food, decent service. Pretty average overall.",4.1
+rest_450,Pizza Palace,University,Italian,$$,Not worth the money. Poor quality and bad service.,1.1
+rest_451,Taco Truck,Suburb,Mexican,$$,"Nice place, food was okay. Nothing extraordinary.",2.5
+rest_452,BBQ Joint,Mall,Japanese,$$$$,Not worth the money. Poor quality and bad service.,3.2
+rest_453,Burger House,University,Japanese,$$$,Perfect place for dinner. Great ambiance and taste.,4.2
+rest_454,Pasta Place,Beach,Japanese,$$$$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_455,Pizza Palace,Downtown,Japanese,$$$,Outstanding experience. The food was delicious.,5.1
+rest_456,Fine Dining,Beach,BBQ,$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_457,Coffee Corner,Mall,Japanese,$$,Average experience. Food was fine but not amazing.,2.9
+rest_458,Fine Dining,University,American,$,Worst restaurant experience ever. Avoid this place.,2.8
+rest_459,Sushi Zen,Mall,American,$$$$,Perfect place for dinner. Great ambiance and taste.,5.0
+rest_460,Pasta Place,Mall,Italian,$$$$,Amazing food and great service! Highly recommend.,4.4
+rest_461,Sushi Zen,Suburb,BBQ,$$$$,Not worth the money. Poor quality and bad service.,2.7
+rest_462,Taco Truck,Mall,Japanese,$$$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_463,Sushi Zen,Mall,Vegetarian,$$$$,"Good food, decent service. Pretty average overall.",4.1
+rest_464,Pasta Place,Suburb,American,$$$$,Average experience. Food was fine but not amazing.,4.1
+rest_465,BBQ Joint,University,American,$$$,Terrible food and rude staff. Would not recommend.,2.2
+rest_466,BBQ Joint,Mall,Vegetarian,$,Decent restaurant with reasonable prices.,3.7
+rest_467,Fine Dining,Beach,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_468,Vegan Delight,Downtown,BBQ,$$$,Excellent quality and atmosphere. Will definitely come back.,5.4
+rest_469,Taco Truck,University,American,$$,Not worth the money. Poor quality and bad service.,3.5
+rest_470,Taco Truck,Beach,BBQ,$$,Average experience. Food was fine but not amazing.,3.4
+rest_471,Burger House,University,BBQ,$$$,Not worth the money. Poor quality and bad service.,1.9
+rest_472,BBQ Joint,Suburb,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_473,Coffee Corner,Downtown,BBQ,$$$$,Amazing food and great service! Highly recommend.,4.4
+rest_474,Coffee Corner,Beach,Mexican,$,Worst restaurant experience ever. Avoid this place.,1.2
+rest_475,Sushi Zen,Downtown,Japanese,$$,Worst restaurant experience ever. Avoid this place.,1.9
+rest_476,Burger House,Mall,Coffee,$$$,Perfect place for dinner. Great ambiance and taste.,4.7
+rest_477,Pizza Palace,Suburb,BBQ,$$,Average experience. Food was fine but not amazing.,3.5
+rest_478,Vegan Delight,Suburb,BBQ,$$$,Terrible food and rude staff. Would not recommend.,2.1
+rest_479,Pizza Palace,University,BBQ,$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_480,Taco Truck,Mall,Japanese,$$$$,Amazing food and great service! Highly recommend.,5.2
+rest_481,Vegan Delight,Mall,BBQ,$$$$,Not worth the money. Poor quality and bad service.,1.8
+rest_482,Sushi Zen,University,Italian,$$$$,Amazing food and great service! Highly recommend.,5.1
+rest_483,Burger House,Downtown,Italian,$$,Worst restaurant experience ever. Avoid this place.,2.7
+rest_484,Coffee Corner,Downtown,Mexican,$,Amazing food and great service! Highly recommend.,3.6
+rest_485,Pasta Place,University,American,$$$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_486,Fine Dining,University,Vegetarian,$$,"Good food, decent service. Pretty average overall.",2.9
+rest_487,Vegan Delight,Downtown,Vegetarian,$$,Average experience. Food was fine but not amazing.,2.4
+rest_488,Fine Dining,Suburb,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,2.8
+rest_489,Steakhouse,Mall,Italian,$$$,Disappointing experience. Food was cold and service was slow.,3.0
+rest_490,Coffee Corner,University,Coffee,$$$,Excellent quality and atmosphere. Will definitely come back.,5.5
+rest_491,Taco Truck,University,BBQ,$,"Nice place, food was okay. Nothing extraordinary.",3.2
+rest_492,Coffee Corner,Beach,American,$$$,Disappointing experience. Food was cold and service was slow.,2.4
+rest_493,Fine Dining,Downtown,Italian,$$$,Average experience. Food was fine but not amazing.,2.8
+rest_494,Vegan Delight,University,Japanese,$,Decent restaurant with reasonable prices.,3.8
+rest_495,BBQ Joint,Downtown,BBQ,$,Disappointing experience. Food was cold and service was slow.,2.5
+rest_496,Coffee Corner,Mall,Mexican,$$$$,Disappointing experience. Food was cold and service was slow.,1.3
+rest_497,Pasta Place,University,American,$$$$,Amazing food and great service! Highly recommend.,5.1
+rest_498,Pasta Place,Beach,Mexican,$$,Average experience. Food was fine but not amazing.,3.5
+rest_499,Steakhouse,University,BBQ,$$,Amazing food and great service! Highly recommend.,4.3
+rest_500,Steakhouse,Mall,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_501,Pizza Palace,Downtown,BBQ,$$$$,Not worth the money. Poor quality and bad service.,2.4
+rest_502,Vegan Delight,Downtown,Vegetarian,$$,"Nice place, food was okay. Nothing extraordinary.",3.2
+rest_503,Burger House,Mall,American,$$$,Not worth the money. Poor quality and bad service.,2.3
+rest_504,Fine Dining,Beach,Vegetarian,$$,Excellent quality and atmosphere. Will definitely come back.,5.8
+rest_505,Sushi Zen,Beach,Mexican,$,Disappointing experience. Food was cold and service was slow.,0.3
+rest_506,Pizza Palace,Mall,Coffee,$$,Perfect place for dinner. Great ambiance and taste.,4.0
+rest_507,Taco Truck,Mall,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,2.8
+rest_508,Steakhouse,Downtown,Mexican,$$$,Not worth the money. Poor quality and bad service.,2.5
+rest_509,Coffee Corner,Suburb,American,$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_510,Burger House,Downtown,Japanese,$$$,"Nice place, food was okay. Nothing extraordinary.",3.0
+rest_511,Steakhouse,University,BBQ,$$,Decent restaurant with reasonable prices.,3.8
+rest_512,Pizza Palace,Mall,Mexican,$$$$,Amazing food and great service! Highly recommend.,3.9
+rest_513,Steakhouse,University,Coffee,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.7
+rest_514,Fine Dining,Suburb,Mexican,$$$$,Perfect place for dinner. Great ambiance and taste.,4.1
+rest_515,Vegan Delight,Beach,Japanese,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.0
+rest_516,Taco Truck,Downtown,Vegetarian,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_517,Taco Truck,University,Coffee,$$,Amazing food and great service! Highly recommend.,5.3
+rest_518,Pasta Place,Mall,American,$$,"Good food, decent service. Pretty average overall.",3.7
+rest_519,Burger House,University,Italian,$$,Excellent quality and atmosphere. Will definitely come back.,3.8
+rest_520,Taco Truck,University,BBQ,$$,Amazing food and great service! Highly recommend.,4.5
+rest_521,Vegan Delight,Beach,Mexican,$,Average experience. Food was fine but not amazing.,3.8
+rest_522,Sushi Zen,Beach,Japanese,$$$$,Outstanding experience. The food was delicious.,3.9
+rest_523,Pasta Place,Suburb,Coffee,$,Outstanding experience. The food was delicious.,3.5
+rest_524,Steakhouse,University,BBQ,$$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_525,Pasta Place,University,Vegetarian,$,Not worth the money. Poor quality and bad service.,1.9
+rest_526,Sushi Zen,Beach,Italian,$$$,Terrible food and rude staff. Would not recommend.,1.1
+rest_527,Burger House,Beach,American,$$$$,Disappointing experience. Food was cold and service was slow.,2.1
+rest_528,Pizza Palace,Beach,Mexican,$$$,Outstanding experience. The food was delicious.,4.9
+rest_529,Vegan Delight,Beach,Italian,$$$$,"Good food, decent service. Pretty average overall.",2.8
+rest_530,Vegan Delight,Suburb,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,2.7
+rest_531,Coffee Corner,University,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_532,Taco Truck,Downtown,Coffee,$,Not worth the money. Poor quality and bad service.,2.3
+rest_533,Vegan Delight,Mall,BBQ,$$,Worst restaurant experience ever. Avoid this place.,2.2
+rest_534,BBQ Joint,Beach,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,1.6
+rest_535,Steakhouse,Mall,American,$$$,"Good food, decent service. Pretty average overall.",2.7
+rest_536,Steakhouse,Downtown,Italian,$$$$,Outstanding experience. The food was delicious.,5.3
+rest_537,Coffee Corner,Downtown,Italian,$$$,Average experience. Food was fine but not amazing.,3.4
+rest_538,Pizza Palace,Downtown,BBQ,$$$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_539,Pizza Palace,Suburb,BBQ,$,Amazing food and great service! Highly recommend.,5.3
+rest_540,Burger House,Mall,Italian,$,Not worth the money. Poor quality and bad service.,1.8
+rest_541,Pasta Place,Downtown,Italian,$$$,Worst restaurant experience ever. Avoid this place.,3.3
+rest_542,Taco Truck,Suburb,Italian,$$$,Outstanding experience. The food was delicious.,4.1
+rest_543,Taco Truck,Mall,Coffee,$$$,"Good food, decent service. Pretty average overall.",4.1
+rest_544,Pizza Palace,Mall,Coffee,$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_545,Sushi Zen,Mall,Mexican,$$$$,Not worth the money. Poor quality and bad service.,1.7
+rest_546,Vegan Delight,University,BBQ,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.7
+rest_547,Fine Dining,Mall,American,$$$$,Outstanding experience. The food was delicious.,5.3
+rest_548,Burger House,University,Mexican,$,"Nice place, food was okay. Nothing extraordinary.",2.6
+rest_549,Pizza Palace,Downtown,Coffee,$,Amazing food and great service! Highly recommend.,4.3
+rest_550,Coffee Corner,Mall,Italian,$$,Disappointing experience. Food was cold and service was slow.,0.8
+rest_551,Burger House,University,Italian,$,Outstanding experience. The food was delicious.,4.8
+rest_552,Pasta Place,Mall,Vegetarian,$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_553,Vegan Delight,Downtown,American,$$,"Good food, decent service. Pretty average overall.",3.0
+rest_554,Burger House,Suburb,Coffee,$$$$,Disappointing experience. Food was cold and service was slow.,2.8
+rest_555,Pizza Palace,Mall,Italian,$$$$,Terrible food and rude staff. Would not recommend.,0.7
+rest_556,Steakhouse,Suburb,Italian,$$$,Worst restaurant experience ever. Avoid this place.,3.0
+rest_557,Steakhouse,Mall,BBQ,$$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_558,Coffee Corner,University,Japanese,$,Worst restaurant experience ever. Avoid this place.,0.9
+rest_559,Burger House,Beach,American,$$,Outstanding experience. The food was delicious.,4.8
+rest_560,Steakhouse,Downtown,Italian,$$$$,"Good food, decent service. Pretty average overall.",2.6
+rest_561,Burger House,Beach,Mexican,$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_562,Steakhouse,Beach,BBQ,$$$,Average experience. Food was fine but not amazing.,3.2
+rest_563,Pizza Palace,Downtown,Coffee,$$$$,Amazing food and great service! Highly recommend.,5.5
+rest_564,Taco Truck,Mall,Italian,$$,Disappointing experience. Food was cold and service was slow.,3.3
+rest_565,Coffee Corner,Downtown,American,$$,"Nice place, food was okay. Nothing extraordinary.",4.3
+rest_566,Sushi Zen,University,Japanese,$,Perfect place for dinner. Great ambiance and taste.,4.8
+rest_567,Vegan Delight,Mall,American,$$$,"Good food, decent service. Pretty average overall.",3.5
+rest_568,Vegan Delight,Downtown,American,$$,Average experience. Food was fine but not amazing.,4.4
+rest_569,Taco Truck,Downtown,Italian,$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_570,Burger House,Mall,Coffee,$$,"Nice place, food was okay. Nothing extraordinary.",4.7
+rest_571,Pasta Place,Suburb,American,$$,Worst restaurant experience ever. Avoid this place.,3.4
+rest_572,BBQ Joint,Mall,American,$$,Average experience. Food was fine but not amazing.,3.8
+rest_573,Coffee Corner,Mall,Italian,$$$,Worst restaurant experience ever. Avoid this place.,2.8
+rest_574,Pizza Palace,Beach,Italian,$$,Amazing food and great service! Highly recommend.,4.6
+rest_575,Coffee Corner,Suburb,Mexican,$$,"Good food, decent service. Pretty average overall.",3.5
+rest_576,Burger House,Suburb,BBQ,$$,Excellent quality and atmosphere. Will definitely come back.,3.8
+rest_577,Coffee Corner,University,Mexican,$$$,Terrible food and rude staff. Would not recommend.,2.1
+rest_578,Coffee Corner,Suburb,Italian,$,Amazing food and great service! Highly recommend.,5.0
+rest_579,Pasta Place,Mall,Coffee,$$$,Decent restaurant with reasonable prices.,3.2
+rest_580,Taco Truck,Beach,Italian,$$$$,Outstanding experience. The food was delicious.,6.2
+rest_581,Fine Dining,Beach,BBQ,$$,Amazing food and great service! Highly recommend.,4.9
+rest_582,Pasta Place,Beach,Mexican,$$,Not worth the money. Poor quality and bad service.,2.0
+rest_583,Pizza Palace,Beach,Coffee,$,Disappointing experience. Food was cold and service was slow.,0.9
+rest_584,Sushi Zen,Downtown,Vegetarian,$,"Good food, decent service. Pretty average overall.",3.5
+rest_585,Vegan Delight,Downtown,Coffee,$$$,"Good food, decent service. Pretty average overall.",2.7
+rest_586,Taco Truck,Beach,Italian,$$$,Not worth the money. Poor quality and bad service.,1.7
+rest_587,Coffee Corner,Downtown,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,2.7
+rest_588,Steakhouse,Mall,Vegetarian,$$,Worst restaurant experience ever. Avoid this place.,1.9
+rest_589,Steakhouse,University,Japanese,$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_590,Coffee Corner,Mall,Vegetarian,$$$,Average experience. Food was fine but not amazing.,4.5
+rest_591,Pizza Palace,Downtown,Japanese,$$$,Decent restaurant with reasonable prices.,4.8
+rest_592,Steakhouse,Downtown,Coffee,$$,Disappointing experience. Food was cold and service was slow.,2.5
+rest_593,Pizza Palace,Beach,Coffee,$,Worst restaurant experience ever. Avoid this place.,3.2
+rest_594,Steakhouse,Downtown,BBQ,$,Disappointing experience. Food was cold and service was slow.,3.1
+rest_595,Pasta Place,Beach,Italian,$,Decent restaurant with reasonable prices.,3.8
+rest_596,Vegan Delight,Mall,Coffee,$$$,"Good food, decent service. Pretty average overall.",3.6
+rest_597,Vegan Delight,University,Italian,$$$$,Amazing food and great service! Highly recommend.,3.5
+rest_598,Vegan Delight,Downtown,Japanese,$$$$,Disappointing experience. Food was cold and service was slow.,2.9
+rest_599,Sushi Zen,Suburb,Italian,$,Terrible food and rude staff. Would not recommend.,4.5
+rest_600,Fine Dining,Downtown,American,$$$,Not worth the money. Poor quality and bad service.,2.5
+rest_601,Taco Truck,University,Mexican,$,Excellent quality and atmosphere. Will definitely come back.,3.8
+rest_602,Burger House,Beach,Coffee,$$,Worst restaurant experience ever. Avoid this place.,2.4
+rest_603,BBQ Joint,Mall,BBQ,$$,Worst restaurant experience ever. Avoid this place.,2.5
+rest_604,Taco Truck,Mall,American,$$$,Decent restaurant with reasonable prices.,4.4
+rest_605,Pizza Palace,Downtown,Mexican,$$$,Amazing food and great service! Highly recommend.,4.0
+rest_606,BBQ Joint,Downtown,Mexican,$$$$,Not worth the money. Poor quality and bad service.,3.1
+rest_607,Pasta Place,Suburb,Mexican,$,Terrible food and rude staff. Would not recommend.,1.5
+rest_608,Pasta Place,University,Italian,$$$,Amazing food and great service! Highly recommend.,4.3
+rest_609,Sushi Zen,Beach,American,$$$$,Amazing food and great service! Highly recommend.,4.1
+rest_610,Coffee Corner,Suburb,Mexican,$$,Terrible food and rude staff. Would not recommend.,2.2
+rest_611,Vegan Delight,Beach,Japanese,$$,Worst restaurant experience ever. Avoid this place.,2.4
+rest_612,Steakhouse,University,Japanese,$$$,"Nice place, food was okay. Nothing extraordinary.",2.8
+rest_613,Steakhouse,Suburb,Vegetarian,$$$$,Not worth the money. Poor quality and bad service.,3.5
+rest_614,Coffee Corner,Downtown,BBQ,$$$,Excellent quality and atmosphere. Will definitely come back.,4.8
+rest_615,Fine Dining,Suburb,Vegetarian,$,Decent restaurant with reasonable prices.,2.9
+rest_616,Coffee Corner,Suburb,BBQ,$,Perfect place for dinner. Great ambiance and taste.,4.4
+rest_617,BBQ Joint,University,American,$,"Good food, decent service. Pretty average overall.",4.0
+rest_618,BBQ Joint,Downtown,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,1.9
+rest_619,Fine Dining,University,Vegetarian,$$,Amazing food and great service! Highly recommend.,4.4
+rest_620,BBQ Joint,Mall,BBQ,$,Disappointing experience. Food was cold and service was slow.,2.9
+rest_621,Pizza Palace,Beach,Vegetarian,$$$$,Perfect place for dinner. Great ambiance and taste.,4.5
+rest_622,Steakhouse,Mall,Coffee,$$$,Terrible food and rude staff. Would not recommend.,1.4
+rest_623,Sushi Zen,University,Japanese,$$$,Excellent quality and atmosphere. Will definitely come back.,3.8
+rest_624,Fine Dining,Mall,Vegetarian,$$,Worst restaurant experience ever. Avoid this place.,1.7
+rest_625,Pasta Place,Mall,American,$$$,Amazing food and great service! Highly recommend.,5.1
+rest_626,Fine Dining,Beach,American,$$$,"Good food, decent service. Pretty average overall.",4.0
+rest_627,Burger House,Suburb,Coffee,$$$,Average experience. Food was fine but not amazing.,3.7
+rest_628,Sushi Zen,Mall,Vegetarian,$$,Disappointing experience. Food was cold and service was slow.,2.1
+rest_629,Fine Dining,University,American,$$$$,Excellent quality and atmosphere. Will definitely come back.,5.6
+rest_630,Taco Truck,Downtown,Vegetarian,$$$,Amazing food and great service! Highly recommend.,5.4
+rest_631,Burger House,Mall,Coffee,$$$$,"Good food, decent service. Pretty average overall.",3.6
+rest_632,Vegan Delight,Downtown,Vegetarian,$$,"Good food, decent service. Pretty average overall.",3.8
+rest_633,BBQ Joint,University,Vegetarian,$$,"Good food, decent service. Pretty average overall.",4.2
+rest_634,Burger House,University,American,$$$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_635,Coffee Corner,University,Vegetarian,$$,Average experience. Food was fine but not amazing.,3.4
+rest_636,Steakhouse,Beach,Coffee,$$,"Nice place, food was okay. Nothing extraordinary.",3.0
+rest_637,BBQ Joint,University,Japanese,$$,"Good food, decent service. Pretty average overall.",3.9
+rest_638,BBQ Joint,Suburb,Vegetarian,$,Average experience. Food was fine but not amazing.,3.8
+rest_639,Pasta Place,Beach,Japanese,$$$,Decent restaurant with reasonable prices.,3.2
+rest_640,Fine Dining,Downtown,Japanese,$$$,Not worth the money. Poor quality and bad service.,1.6
+rest_641,Vegan Delight,Beach,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,3.1
+rest_642,Fine Dining,University,Italian,$,Excellent quality and atmosphere. Will definitely come back.,4.7
+rest_643,Burger House,Suburb,BBQ,$$$$,Terrible food and rude staff. Would not recommend.,0.7
+rest_644,Taco Truck,Suburb,Vegetarian,$$$$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_645,Fine Dining,Downtown,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,0.4
+rest_646,BBQ Joint,Beach,Vegetarian,$$$$,Terrible food and rude staff. Would not recommend.,0.8
+rest_647,Taco Truck,Beach,American,$$,Excellent quality and atmosphere. Will definitely come back.,3.9
+rest_648,Coffee Corner,Suburb,BBQ,$$$,"Nice place, food was okay. Nothing extraordinary.",3.6
+rest_649,Coffee Corner,Suburb,Vegetarian,$$$$,Average experience. Food was fine but not amazing.,3.6
+rest_650,Pasta Place,Downtown,Italian,$$$,Excellent quality and atmosphere. Will definitely come back.,4.3
+rest_651,Vegan Delight,Suburb,Japanese,$$$$,Outstanding experience. The food was delicious.,2.9
+rest_652,Steakhouse,Beach,Italian,$$$$,Perfect place for dinner. Great ambiance and taste.,4.6
+rest_653,Vegan Delight,University,Mexican,$$,Outstanding experience. The food was delicious.,4.2
+rest_654,Vegan Delight,Mall,American,$$$$,Worst restaurant experience ever. Avoid this place.,2.5
+rest_655,BBQ Joint,Beach,Coffee,$,Excellent quality and atmosphere. Will definitely come back.,3.0
+rest_656,Sushi Zen,Beach,Italian,$$$$,Terrible food and rude staff. Would not recommend.,3.2
+rest_657,BBQ Joint,Downtown,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,2.1
+rest_658,Coffee Corner,University,Coffee,$$,Outstanding experience. The food was delicious.,4.6
+rest_659,Coffee Corner,Beach,Vegetarian,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.0
+rest_660,Vegan Delight,Mall,American,$$$,Perfect place for dinner. Great ambiance and taste.,5.2
+rest_661,Fine Dining,University,Italian,$$$,Not worth the money. Poor quality and bad service.,2.0
+rest_662,Fine Dining,Suburb,Mexican,$$$,Average experience. Food was fine but not amazing.,3.6
+rest_663,Pizza Palace,University,Italian,$,Disappointing experience. Food was cold and service was slow.,3.0
+rest_664,BBQ Joint,Suburb,American,$$$,Not worth the money. Poor quality and bad service.,1.5
+rest_665,Pasta Place,Beach,Italian,$$$$,Perfect place for dinner. Great ambiance and taste.,4.1
+rest_666,Pasta Place,Suburb,Vegetarian,$$,"Nice place, food was okay. Nothing extraordinary.",3.6
+rest_667,Fine Dining,Beach,BBQ,$,Average experience. Food was fine but not amazing.,2.9
+rest_668,Vegan Delight,University,American,$$$$,Decent restaurant with reasonable prices.,2.3
+rest_669,Vegan Delight,University,Italian,$$,Perfect place for dinner. Great ambiance and taste.,5.4
+rest_670,Sushi Zen,Mall,American,$$$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_671,Vegan Delight,Downtown,Japanese,$$,Decent restaurant with reasonable prices.,3.7
+rest_672,BBQ Joint,Suburb,Vegetarian,$$$,Outstanding experience. The food was delicious.,3.4
+rest_673,Steakhouse,Beach,Coffee,$,Perfect place for dinner. Great ambiance and taste.,4.6
+rest_674,Coffee Corner,Suburb,Vegetarian,$,Decent restaurant with reasonable prices.,4.8
+rest_675,Sushi Zen,Mall,Japanese,$$$$,Terrible food and rude staff. Would not recommend.,1.2
+rest_676,Burger House,Mall,BBQ,$$$$,"Nice place, food was okay. Nothing extraordinary.",2.8
+rest_677,Burger House,Beach,Japanese,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.5
+rest_678,Pizza Palace,Mall,Mexican,$$,Not worth the money. Poor quality and bad service.,3.3
+rest_679,Pasta Place,University,Vegetarian,$$$,Terrible food and rude staff. Would not recommend.,2.8
+rest_680,BBQ Joint,Mall,Mexican,$,Worst restaurant experience ever. Avoid this place.,1.1
+rest_681,Taco Truck,University,Japanese,$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_682,BBQ Joint,Beach,Italian,$$$,"Nice place, food was okay. Nothing extraordinary.",3.1
+rest_683,BBQ Joint,Suburb,Japanese,$$$,Terrible food and rude staff. Would not recommend.,2.5
+rest_684,Steakhouse,Mall,Italian,$$$,Disappointing experience. Food was cold and service was slow.,2.4
+rest_685,Burger House,Suburb,Mexican,$$$$,Outstanding experience. The food was delicious.,5.5
+rest_686,Pasta Place,Downtown,Vegetarian,$,Decent restaurant with reasonable prices.,3.5
+rest_687,Pizza Palace,University,Vegetarian,$,"Good food, decent service. Pretty average overall.",3.0
+rest_688,Taco Truck,Beach,BBQ,$$,Worst restaurant experience ever. Avoid this place.,2.6
+rest_689,BBQ Joint,Downtown,American,$,Terrible food and rude staff. Would not recommend.,3.1
+rest_690,Pasta Place,University,Japanese,$$,Terrible food and rude staff. Would not recommend.,2.4
+rest_691,Sushi Zen,Suburb,American,$,Perfect place for dinner. Great ambiance and taste.,5.2
+rest_692,Pasta Place,Mall,Coffee,$$$$,Disappointing experience. Food was cold and service was slow.,1.3
+rest_693,Coffee Corner,Beach,Coffee,$,Excellent quality and atmosphere. Will definitely come back.,4.3
+rest_694,Pizza Palace,University,Japanese,$$,Perfect place for dinner. Great ambiance and taste.,3.6
+rest_695,Coffee Corner,University,American,$$,Terrible food and rude staff. Would not recommend.,2.3
+rest_696,Steakhouse,Beach,BBQ,$$,Worst restaurant experience ever. Avoid this place.,1.2
+rest_697,Coffee Corner,Beach,BBQ,$,Terrible food and rude staff. Would not recommend.,1.8
+rest_698,Steakhouse,Suburb,Coffee,$$$,Excellent quality and atmosphere. Will definitely come back.,4.4
+rest_699,Pizza Palace,Downtown,Vegetarian,$$,Not worth the money. Poor quality and bad service.,1.7
+rest_700,Pizza Palace,Beach,Vegetarian,$$$,Terrible food and rude staff. Would not recommend.,2.0
+rest_701,Pizza Palace,Beach,Japanese,$$$$,Not worth the money. Poor quality and bad service.,0.9
+rest_702,Steakhouse,Downtown,BBQ,$,Decent restaurant with reasonable prices.,2.2
+rest_703,Coffee Corner,Mall,American,$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_704,Pasta Place,University,BBQ,$$$,Decent restaurant with reasonable prices.,3.5
+rest_705,Sushi Zen,Mall,Mexican,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.6
+rest_706,BBQ Joint,Beach,Coffee,$,Excellent quality and atmosphere. Will definitely come back.,4.5
+rest_707,Coffee Corner,Suburb,Vegetarian,$,Terrible food and rude staff. Would not recommend.,0.9
+rest_708,Taco Truck,Mall,Mexican,$$$$,Disappointing experience. Food was cold and service was slow.,1.2
+rest_709,Burger House,Mall,Vegetarian,$$$$,Decent restaurant with reasonable prices.,2.3
+rest_710,Vegan Delight,Beach,American,$$$$,Worst restaurant experience ever. Avoid this place.,1.3
+rest_711,Vegan Delight,Mall,Vegetarian,$$,Not worth the money. Poor quality and bad service.,2.6
+rest_712,Fine Dining,Beach,Coffee,$$$,Decent restaurant with reasonable prices.,4.1
+rest_713,Coffee Corner,Suburb,Coffee,$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_714,Pasta Place,Suburb,American,$$$,Worst restaurant experience ever. Avoid this place.,3.2
+rest_715,Coffee Corner,Mall,BBQ,$$$,Outstanding experience. The food was delicious.,4.2
+rest_716,Pizza Palace,University,BBQ,$$$$,Terrible food and rude staff. Would not recommend.,2.6
+rest_717,Coffee Corner,Mall,Vegetarian,$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_718,Pasta Place,Mall,Coffee,$$$,Amazing food and great service! Highly recommend.,4.9
+rest_719,Pizza Palace,Suburb,Italian,$$$,Outstanding experience. The food was delicious.,5.3
+rest_720,Steakhouse,Mall,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,1.6
+rest_721,Burger House,Beach,BBQ,$,Excellent quality and atmosphere. Will definitely come back.,4.8
+rest_722,Vegan Delight,Suburb,Vegetarian,$$$,Amazing food and great service! Highly recommend.,4.7
+rest_723,Burger House,Suburb,Japanese,$$$,Disappointing experience. Food was cold and service was slow.,1.9
+rest_724,Coffee Corner,Beach,BBQ,$$$,Not worth the money. Poor quality and bad service.,1.8
+rest_725,Pizza Palace,Mall,American,$$$,Not worth the money. Poor quality and bad service.,1.1
+rest_726,Coffee Corner,Downtown,Mexican,$$$,Worst restaurant experience ever. Avoid this place.,1.7
+rest_727,Taco Truck,Suburb,American,$$$,Decent restaurant with reasonable prices.,3.8
+rest_728,BBQ Joint,University,Mexican,$,Amazing food and great service! Highly recommend.,4.0
+rest_729,Taco Truck,Beach,Coffee,$$,Worst restaurant experience ever. Avoid this place.,0.8
+rest_730,Coffee Corner,Beach,BBQ,$$$$,Terrible food and rude staff. Would not recommend.,2.5
+rest_731,Taco Truck,University,Coffee,$,Decent restaurant with reasonable prices.,3.5
+rest_732,Taco Truck,University,Japanese,$,Average experience. Food was fine but not amazing.,3.6
+rest_733,Taco Truck,Downtown,Vegetarian,$$$,Not worth the money. Poor quality and bad service.,2.3
+rest_734,Burger House,Beach,Vegetarian,$$$$,Decent restaurant with reasonable prices.,2.9
+rest_735,Coffee Corner,Beach,Mexican,$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_736,Taco Truck,Downtown,BBQ,$$$,Not worth the money. Poor quality and bad service.,2.8
+rest_737,Taco Truck,Downtown,Mexican,$$,Worst restaurant experience ever. Avoid this place.,2.8
+rest_738,Pasta Place,Mall,Coffee,$$,"Good food, decent service. Pretty average overall.",3.8
+rest_739,Taco Truck,Mall,American,$$,Terrible food and rude staff. Would not recommend.,0.9
+rest_740,Vegan Delight,Beach,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_741,Steakhouse,Suburb,American,$$$$,Average experience. Food was fine but not amazing.,4.4
+rest_742,Pasta Place,Beach,BBQ,$$$,Terrible food and rude staff. Would not recommend.,2.9
+rest_743,Steakhouse,Suburb,Mexican,$$$,Terrible food and rude staff. Would not recommend.,3.0
+rest_744,Pizza Palace,University,Coffee,$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_745,Sushi Zen,Suburb,Japanese,$,Amazing food and great service! Highly recommend.,5.0
+rest_746,Burger House,University,Vegetarian,$$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_747,Steakhouse,Downtown,Coffee,$$$$,"Nice place, food was okay. Nothing extraordinary.",4.3
+rest_748,Fine Dining,Beach,Vegetarian,$,Outstanding experience. The food was delicious.,4.6
+rest_749,BBQ Joint,Downtown,Mexican,$$,Worst restaurant experience ever. Avoid this place.,0.4
+rest_750,Vegan Delight,Suburb,Mexican,$$$,"Good food, decent service. Pretty average overall.",4.1
+rest_751,Coffee Corner,Mall,American,$$$,Excellent quality and atmosphere. Will definitely come back.,4.7
+rest_752,Fine Dining,University,Mexican,$,Disappointing experience. Food was cold and service was slow.,0.3
+rest_753,Steakhouse,University,Vegetarian,$$$$,Amazing food and great service! Highly recommend.,4.9
+rest_754,Taco Truck,Beach,Mexican,$$$$,Amazing food and great service! Highly recommend.,4.4
+rest_755,Coffee Corner,Mall,BBQ,$$$$,Perfect place for dinner. Great ambiance and taste.,4.6
+rest_756,Fine Dining,University,Coffee,$$$$,Terrible food and rude staff. Would not recommend.,2.1
+rest_757,Pasta Place,University,Italian,$,Worst restaurant experience ever. Avoid this place.,2.2
+rest_758,Burger House,Beach,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_759,Pizza Palace,Beach,BBQ,$$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_760,Coffee Corner,Beach,Japanese,$$$$,"Good food, decent service. Pretty average overall.",3.9
+rest_761,Coffee Corner,Suburb,Coffee,$,Disappointing experience. Food was cold and service was slow.,2.7
+rest_762,BBQ Joint,Downtown,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,1.0
+rest_763,Sushi Zen,University,Vegetarian,$$$,Excellent quality and atmosphere. Will definitely come back.,4.2
+rest_764,Fine Dining,Downtown,Italian,$$,"Nice place, food was okay. Nothing extraordinary.",4.5
+rest_765,Pizza Palace,Mall,Mexican,$$$,Average experience. Food was fine but not amazing.,4.1
+rest_766,Taco Truck,Beach,Mexican,$,Outstanding experience. The food was delicious.,5.1
+rest_767,Vegan Delight,University,Mexican,$$$,"Nice place, food was okay. Nothing extraordinary.",3.5
+rest_768,Sushi Zen,University,American,$$,Not worth the money. Poor quality and bad service.,0.9
+rest_769,Vegan Delight,University,Japanese,$$$$,Worst restaurant experience ever. Avoid this place.,0.9
+rest_770,Pasta Place,Mall,American,$$,Excellent quality and atmosphere. Will definitely come back.,3.4
+rest_771,Coffee Corner,University,Vegetarian,$,"Good food, decent service. Pretty average overall.",3.5
+rest_772,Sushi Zen,Mall,Mexican,$$,Outstanding experience. The food was delicious.,4.3
+rest_773,Vegan Delight,University,American,$$,Decent restaurant with reasonable prices.,4.3
+rest_774,Sushi Zen,Beach,Coffee,$$,Average experience. Food was fine but not amazing.,3.4
+rest_775,Coffee Corner,University,Japanese,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_776,Steakhouse,Mall,Mexican,$$,"Good food, decent service. Pretty average overall.",3.3
+rest_777,Vegan Delight,Suburb,Italian,$$,Disappointing experience. Food was cold and service was slow.,2.4
+rest_778,Taco Truck,Mall,Vegetarian,$$$$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_779,Vegan Delight,Mall,Vegetarian,$$,"Good food, decent service. Pretty average overall.",4.0
+rest_780,Coffee Corner,University,American,$$,Disappointing experience. Food was cold and service was slow.,2.9
+rest_781,Burger House,Downtown,Italian,$$,Terrible food and rude staff. Would not recommend.,3.2
+rest_782,Burger House,Mall,Mexican,$,Disappointing experience. Food was cold and service was slow.,1.4
+rest_783,Taco Truck,Mall,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_784,Burger House,Downtown,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,1.6
+rest_785,Vegan Delight,Suburb,Mexican,$$$$,Outstanding experience. The food was delicious.,5.2
+rest_786,Taco Truck,Beach,Italian,$$$,Excellent quality and atmosphere. Will definitely come back.,4.9
+rest_787,Coffee Corner,Mall,American,$$$$,Perfect place for dinner. Great ambiance and taste.,3.0
+rest_788,Burger House,Suburb,Coffee,$$$,Amazing food and great service! Highly recommend.,4.3
+rest_789,BBQ Joint,Mall,Coffee,$$,"Good food, decent service. Pretty average overall.",2.5
+rest_790,Vegan Delight,Suburb,Italian,$$,Excellent quality and atmosphere. Will definitely come back.,3.5
+rest_791,Coffee Corner,Beach,Mexican,$$$,Terrible food and rude staff. Would not recommend.,2.5
+rest_792,Fine Dining,Suburb,Mexican,$$$,Not worth the money. Poor quality and bad service.,2.4
+rest_793,Burger House,University,Vegetarian,$,Perfect place for dinner. Great ambiance and taste.,4.5
+rest_794,Steakhouse,Mall,Mexican,$$$,"Good food, decent service. Pretty average overall.",3.0
+rest_795,Burger House,University,BBQ,$$,Terrible food and rude staff. Would not recommend.,2.9
+rest_796,Vegan Delight,Beach,BBQ,$$$,Excellent quality and atmosphere. Will definitely come back.,4.7
+rest_797,Sushi Zen,Downtown,Italian,$$,Worst restaurant experience ever. Avoid this place.,1.2
+rest_798,Fine Dining,Beach,American,$,"Nice place, food was okay. Nothing extraordinary.",2.0
+rest_799,Pasta Place,Beach,Japanese,$$$,Not worth the money. Poor quality and bad service.,1.9
+rest_800,Sushi Zen,University,BBQ,$$,Decent restaurant with reasonable prices.,2.9
+rest_801,Steakhouse,University,BBQ,$$$$,Terrible food and rude staff. Would not recommend.,1.3
+rest_802,BBQ Joint,Beach,Japanese,$$$$,Not worth the money. Poor quality and bad service.,1.9
+rest_803,Fine Dining,University,Italian,$$,Excellent quality and atmosphere. Will definitely come back.,4.1
+rest_804,BBQ Joint,Downtown,Italian,$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_805,Vegan Delight,University,Italian,$$$,Outstanding experience. The food was delicious.,5.3
+rest_806,Fine Dining,Mall,Italian,$$,Outstanding experience. The food was delicious.,4.3
+rest_807,Vegan Delight,University,Japanese,$$$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_808,Vegan Delight,University,Mexican,$,Disappointing experience. Food was cold and service was slow.,1.9
+rest_809,Pasta Place,Beach,Coffee,$,Not worth the money. Poor quality and bad service.,1.7
+rest_810,Burger House,Suburb,American,$$,"Nice place, food was okay. Nothing extraordinary.",3.7
+rest_811,Burger House,Downtown,BBQ,$$$,Outstanding experience. The food was delicious.,4.0
+rest_812,Fine Dining,Suburb,Vegetarian,$$,Perfect place for dinner. Great ambiance and taste.,5.5
+rest_813,Pasta Place,Mall,American,$$$$,Average experience. Food was fine but not amazing.,3.8
+rest_814,Pizza Palace,Mall,Mexican,$$$,Not worth the money. Poor quality and bad service.,1.4
+rest_815,Burger House,Mall,Vegetarian,$,Average experience. Food was fine but not amazing.,3.3
+rest_816,Coffee Corner,University,Japanese,$$$$,Perfect place for dinner. Great ambiance and taste.,5.7
+rest_817,Pasta Place,Beach,Japanese,$$,"Good food, decent service. Pretty average overall.",2.7
+rest_818,Fine Dining,Downtown,BBQ,$$$,Worst restaurant experience ever. Avoid this place.,2.6
+rest_819,BBQ Joint,Mall,American,$$$,Perfect place for dinner. Great ambiance and taste.,3.7
+rest_820,Coffee Corner,Mall,Italian,$,Decent restaurant with reasonable prices.,3.3
+rest_821,Pizza Palace,University,Coffee,$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_822,Vegan Delight,Suburb,Italian,$$,Not worth the money. Poor quality and bad service.,0.9
+rest_823,Coffee Corner,Beach,Japanese,$$,Terrible food and rude staff. Would not recommend.,1.6
+rest_824,Pasta Place,Beach,Japanese,$,Not worth the money. Poor quality and bad service.,0.9
+rest_825,BBQ Joint,Beach,Japanese,$$,"Good food, decent service. Pretty average overall.",4.3
+rest_826,Pizza Palace,University,Vegetarian,$$$,Average experience. Food was fine but not amazing.,4.0
+rest_827,Sushi Zen,Downtown,Vegetarian,$$$,Not worth the money. Poor quality and bad service.,2.2
+rest_828,Sushi Zen,Downtown,American,$$$$,Terrible food and rude staff. Would not recommend.,1.2
+rest_829,Coffee Corner,Beach,American,$$,Average experience. Food was fine but not amazing.,2.5
+rest_830,Pasta Place,Suburb,American,$$,"Nice place, food was okay. Nothing extraordinary.",3.5
+rest_831,Vegan Delight,University,BBQ,$$$$,"Good food, decent service. Pretty average overall.",2.9
+rest_832,Steakhouse,University,Italian,$$$$,Disappointing experience. Food was cold and service was slow.,2.3
+rest_833,Taco Truck,Suburb,BBQ,$$,Perfect place for dinner. Great ambiance and taste.,4.8
+rest_834,Steakhouse,Beach,American,$,Worst restaurant experience ever. Avoid this place.,1.4
+rest_835,Vegan Delight,Beach,Japanese,$$$,Excellent quality and atmosphere. Will definitely come back.,5.2
+rest_836,Taco Truck,Beach,Mexican,$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_837,Coffee Corner,University,BBQ,$$$,Outstanding experience. The food was delicious.,4.6
+rest_838,Fine Dining,Beach,Vegetarian,$$,Outstanding experience. The food was delicious.,4.0
+rest_839,Taco Truck,University,BBQ,$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_840,Steakhouse,University,American,$$$,"Nice place, food was okay. Nothing extraordinary.",2.8
+rest_841,Taco Truck,Beach,Japanese,$$,Terrible food and rude staff. Would not recommend.,2.4
+rest_842,BBQ Joint,Downtown,Mexican,$$$,Outstanding experience. The food was delicious.,3.7
+rest_843,Sushi Zen,University,BBQ,$$,Disappointing experience. Food was cold and service was slow.,2.6
+rest_844,Coffee Corner,Mall,American,$$$$,Decent restaurant with reasonable prices.,3.2
+rest_845,Pasta Place,Mall,American,$$,Not worth the money. Poor quality and bad service.,2.5
+rest_846,BBQ Joint,Suburb,BBQ,$$,"Good food, decent service. Pretty average overall.",3.8
+rest_847,Steakhouse,Mall,Vegetarian,$$,Terrible food and rude staff. Would not recommend.,1.1
+rest_848,Coffee Corner,Beach,Vegetarian,$$$,Amazing food and great service! Highly recommend.,4.3
+rest_849,BBQ Joint,Mall,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,2.6
+rest_850,Pasta Place,Downtown,Coffee,$,Average experience. Food was fine but not amazing.,2.8
+rest_851,Sushi Zen,Beach,BBQ,$$$,Perfect place for dinner. Great ambiance and taste.,5.2
+rest_852,Coffee Corner,University,BBQ,$,Excellent quality and atmosphere. Will definitely come back.,3.6
+rest_853,Taco Truck,Beach,Italian,$$$,Decent restaurant with reasonable prices.,3.5
+rest_854,Fine Dining,Mall,Mexican,$$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_855,Pizza Palace,University,Mexican,$$$,"Nice place, food was okay. Nothing extraordinary.",3.3
+rest_856,Burger House,Mall,BBQ,$$,Average experience. Food was fine but not amazing.,4.0
+rest_857,Vegan Delight,Suburb,Coffee,$$$$,Perfect place for dinner. Great ambiance and taste.,5.7
+rest_858,Pizza Palace,Beach,Italian,$$,Worst restaurant experience ever. Avoid this place.,1.8
+rest_859,Burger House,Beach,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,1.5
+rest_860,Coffee Corner,Mall,Vegetarian,$$,Not worth the money. Poor quality and bad service.,1.3
+rest_861,Taco Truck,Beach,Coffee,$,Amazing food and great service! Highly recommend.,4.8
+rest_862,Burger House,Suburb,Italian,$$$,Not worth the money. Poor quality and bad service.,3.4
+rest_863,Pizza Palace,Downtown,Coffee,$,Perfect place for dinner. Great ambiance and taste.,5.1
+rest_864,Sushi Zen,Downtown,Coffee,$$$$,Not worth the money. Poor quality and bad service.,2.6
+rest_865,Coffee Corner,Mall,Vegetarian,$,"Good food, decent service. Pretty average overall.",4.2
+rest_866,Pizza Palace,Downtown,Mexican,$$$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_867,Steakhouse,Downtown,BBQ,$$$$,Excellent quality and atmosphere. Will definitely come back.,3.9
+rest_868,Burger House,Suburb,American,$$$$,Disappointing experience. Food was cold and service was slow.,1.1
+rest_869,Pizza Palace,Beach,Japanese,$$$,Amazing food and great service! Highly recommend.,3.8
+rest_870,Burger House,Mall,Vegetarian,$$,Average experience. Food was fine but not amazing.,3.1
+rest_871,Steakhouse,Suburb,Italian,$$$$,Perfect place for dinner. Great ambiance and taste.,5.1
+rest_872,Burger House,Mall,Coffee,$,"Good food, decent service. Pretty average overall.",3.5
+rest_873,Taco Truck,Mall,Vegetarian,$$$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_874,Pizza Palace,Mall,Vegetarian,$$$,Worst restaurant experience ever. Avoid this place.,0.3
+rest_875,Coffee Corner,Mall,Mexican,$$,Disappointing experience. Food was cold and service was slow.,2.4
+rest_876,Steakhouse,Suburb,Italian,$$$,Not worth the money. Poor quality and bad service.,1.8
+rest_877,Pasta Place,Downtown,BBQ,$$,Outstanding experience. The food was delicious.,4.1
+rest_878,BBQ Joint,Mall,Italian,$$$$,Not worth the money. Poor quality and bad service.,1.3
+rest_879,Coffee Corner,Beach,Italian,$$$,Disappointing experience. Food was cold and service was slow.,2.7
+rest_880,Fine Dining,University,Japanese,$,Not worth the money. Poor quality and bad service.,3.7
+rest_881,Steakhouse,Mall,Italian,$,Outstanding experience. The food was delicious.,4.2
+rest_882,Fine Dining,University,BBQ,$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_883,Sushi Zen,Suburb,American,$$,Disappointing experience. Food was cold and service was slow.,3.0
+rest_884,Coffee Corner,Downtown,Mexican,$,Disappointing experience. Food was cold and service was slow.,2.3
+rest_885,Coffee Corner,Beach,Italian,$$$,Amazing food and great service! Highly recommend.,4.6
+rest_886,Pasta Place,University,Japanese,$$,Average experience. Food was fine but not amazing.,3.7
+rest_887,Vegan Delight,Beach,Coffee,$$,Amazing food and great service! Highly recommend.,3.5
+rest_888,Pasta Place,Beach,American,$$$,Decent restaurant with reasonable prices.,3.1
+rest_889,Vegan Delight,Mall,American,$$$$,Decent restaurant with reasonable prices.,4.8
+rest_890,Pasta Place,Downtown,Italian,$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_891,Steakhouse,Suburb,Vegetarian,$$$$,Average experience. Food was fine but not amazing.,3.5
+rest_892,Pizza Palace,Downtown,American,$$$,Not worth the money. Poor quality and bad service.,2.3
+rest_893,Vegan Delight,Mall,Mexican,$,Terrible food and rude staff. Would not recommend.,1.8
+rest_894,Burger House,Suburb,American,$$$,Terrible food and rude staff. Would not recommend.,0.8
+rest_895,Coffee Corner,Suburb,Italian,$$$,Disappointing experience. Food was cold and service was slow.,1.0
+rest_896,Fine Dining,Downtown,Coffee,$$$$,Worst restaurant experience ever. Avoid this place.,0.8
+rest_897,Vegan Delight,Suburb,Italian,$$$$,Disappointing experience. Food was cold and service was slow.,1.6
+rest_898,Taco Truck,Downtown,Italian,$,"Nice place, food was okay. Nothing extraordinary.",3.6
+rest_899,Fine Dining,Suburb,BBQ,$,"Good food, decent service. Pretty average overall.",2.8
+rest_900,Pizza Palace,Suburb,American,$$$$,Disappointing experience. Food was cold and service was slow.,1.7
+rest_901,Pizza Palace,Beach,BBQ,$$$$,Perfect place for dinner. Great ambiance and taste.,4.1
+rest_902,BBQ Joint,Mall,Mexican,$,Terrible food and rude staff. Would not recommend.,1.5
+rest_903,Sushi Zen,Suburb,Mexican,$$,Not worth the money. Poor quality and bad service.,2.6
+rest_904,Pizza Palace,Suburb,Coffee,$$$,Not worth the money. Poor quality and bad service.,1.5
+rest_905,Pizza Palace,Mall,Japanese,$,Outstanding experience. The food was delicious.,4.6
+rest_906,BBQ Joint,University,Mexican,$,"Nice place, food was okay. Nothing extraordinary.",3.8
+rest_907,Coffee Corner,Downtown,Italian,$,Worst restaurant experience ever. Avoid this place.,2.9
+rest_908,Steakhouse,Beach,BBQ,$$$$,Average experience. Food was fine but not amazing.,3.8
+rest_909,Steakhouse,Suburb,Vegetarian,$$$,Disappointing experience. Food was cold and service was slow.,2.6
+rest_910,Taco Truck,Mall,Mexican,$$$$,Decent restaurant with reasonable prices.,4.5
+rest_911,Pizza Palace,University,American,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.4
+rest_912,BBQ Joint,Suburb,Mexican,$$,Average experience. Food was fine but not amazing.,3.5
+rest_913,Burger House,University,Mexican,$$$,Outstanding experience. The food was delicious.,5.0
+rest_914,BBQ Joint,Suburb,Mexican,$$,"Nice place, food was okay. Nothing extraordinary.",3.3
+rest_915,Taco Truck,Suburb,Mexican,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_916,Fine Dining,Mall,BBQ,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_917,Fine Dining,Mall,Coffee,$$$,Terrible food and rude staff. Would not recommend.,1.9
+rest_918,Steakhouse,Beach,BBQ,$,Decent restaurant with reasonable prices.,2.9
+rest_919,Steakhouse,Beach,Coffee,$,Average experience. Food was fine but not amazing.,2.9
+rest_920,Steakhouse,Beach,Japanese,$$$,Excellent quality and atmosphere. Will definitely come back.,4.3
+rest_921,Pasta Place,Suburb,Italian,$$,"Good food, decent service. Pretty average overall.",4.2
+rest_922,Sushi Zen,Mall,Italian,$$$$,Not worth the money. Poor quality and bad service.,1.0
+rest_923,Coffee Corner,Downtown,Mexican,$$,"Nice place, food was okay. Nothing extraordinary.",3.4
+rest_924,Pizza Palace,Suburb,American,$$,Terrible food and rude staff. Would not recommend.,1.5
+rest_925,Vegan Delight,Suburb,American,$$$,Worst restaurant experience ever. Avoid this place.,1.5
+rest_926,Steakhouse,Beach,Mexican,$$$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_927,Coffee Corner,Suburb,Coffee,$$,"Nice place, food was okay. Nothing extraordinary.",2.0
+rest_928,Pasta Place,University,BBQ,$$$,Not worth the money. Poor quality and bad service.,1.1
+rest_929,Pasta Place,Suburb,Vegetarian,$,"Nice place, food was okay. Nothing extraordinary.",3.3
+rest_930,BBQ Joint,Mall,American,$$$$,Perfect place for dinner. Great ambiance and taste.,4.6
+rest_931,Pasta Place,Downtown,Japanese,$$,Disappointing experience. Food was cold and service was slow.,0.9
+rest_932,Taco Truck,University,American,$$$,Disappointing experience. Food was cold and service was slow.,1.5
+rest_933,Burger House,Downtown,Mexican,$$$$,Amazing food and great service! Highly recommend.,4.4
+rest_934,Pasta Place,Downtown,Coffee,$$,Disappointing experience. Food was cold and service was slow.,2.8
+rest_935,Sushi Zen,Suburb,Coffee,$$,"Nice place, food was okay. Nothing extraordinary.",2.9
+rest_936,BBQ Joint,Beach,Vegetarian,$$$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_937,Taco Truck,Suburb,Japanese,$$,Terrible food and rude staff. Would not recommend.,3.2
+rest_938,Steakhouse,Mall,Vegetarian,$$$$,Worst restaurant experience ever. Avoid this place.,1.8
+rest_939,Burger House,Downtown,Coffee,$$,"Good food, decent service. Pretty average overall.",3.1
+rest_940,Sushi Zen,Beach,Japanese,$$,"Nice place, food was okay. Nothing extraordinary.",2.6
+rest_941,Burger House,Beach,Coffee,$$,Decent restaurant with reasonable prices.,3.8
+rest_942,Fine Dining,Suburb,American,$$$$,Terrible food and rude staff. Would not recommend.,3.1
+rest_943,Fine Dining,Beach,Coffee,$$$,Amazing food and great service! Highly recommend.,4.8
+rest_944,Vegan Delight,Beach,Vegetarian,$$,Perfect place for dinner. Great ambiance and taste.,4.5
+rest_945,Sushi Zen,University,Coffee,$$,Terrible food and rude staff. Would not recommend.,3.0
+rest_946,Steakhouse,Beach,Coffee,$$$,Worst restaurant experience ever. Avoid this place.,2.1
+rest_947,Pasta Place,Beach,BBQ,$$$,Disappointing experience. Food was cold and service was slow.,1.0
+rest_948,Taco Truck,Beach,American,$,Not worth the money. Poor quality and bad service.,1.1
+rest_949,Vegan Delight,University,Coffee,$$,Average experience. Food was fine but not amazing.,3.6
+rest_950,BBQ Joint,Mall,Coffee,$$,Amazing food and great service! Highly recommend.,4.4
+rest_951,Steakhouse,Mall,American,$$,Disappointing experience. Food was cold and service was slow.,0.7
+rest_952,Pasta Place,Downtown,Coffee,$$$$,Outstanding experience. The food was delicious.,5.3
+rest_953,Fine Dining,Beach,Japanese,$$,Worst restaurant experience ever. Avoid this place.,2.5
+rest_954,Coffee Corner,University,BBQ,$$,Worst restaurant experience ever. Avoid this place.,1.2
+rest_955,Taco Truck,Beach,Japanese,$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_956,Sushi Zen,Downtown,BBQ,$$,Perfect place for dinner. Great ambiance and taste.,3.5
+rest_957,Burger House,University,American,$$$$,Disappointing experience. Food was cold and service was slow.,1.2
+rest_958,Burger House,Suburb,Italian,$$$,"Good food, decent service. Pretty average overall.",3.4
+rest_959,Sushi Zen,Suburb,Vegetarian,$$$,Not worth the money. Poor quality and bad service.,1.0
+rest_960,Coffee Corner,University,Italian,$$$,Terrible food and rude staff. Would not recommend.,2.7
+rest_961,BBQ Joint,Mall,Japanese,$$,Amazing food and great service! Highly recommend.,4.4
+rest_962,Steakhouse,Downtown,BBQ,$,Perfect place for dinner. Great ambiance and taste.,4.4
+rest_963,Taco Truck,Mall,Vegetarian,$,Disappointing experience. Food was cold and service was slow.,1.5
+rest_964,Burger House,University,Italian,$$$$,Average experience. Food was fine but not amazing.,3.5
+rest_965,Steakhouse,Beach,Mexican,$$$,Perfect place for dinner. Great ambiance and taste.,4.5
+rest_966,Fine Dining,Beach,BBQ,$,Disappointing experience. Food was cold and service was slow.,3.5
+rest_967,Taco Truck,University,Mexican,$$$$,Perfect place for dinner. Great ambiance and taste.,5.7
+rest_968,Pasta Place,Downtown,Mexican,$,Not worth the money. Poor quality and bad service.,1.3
+rest_969,Pasta Place,Beach,American,$$,Terrible food and rude staff. Would not recommend.,1.8
+rest_970,Sushi Zen,Beach,Italian,$$$$,Excellent quality and atmosphere. Will definitely come back.,4.8
+rest_971,BBQ Joint,Mall,BBQ,$$$,Amazing food and great service! Highly recommend.,3.6
+rest_972,BBQ Joint,Downtown,Vegetarian,$,Perfect place for dinner. Great ambiance and taste.,3.0
+rest_973,Coffee Corner,Downtown,Italian,$$$,Disappointing experience. Food was cold and service was slow.,2.1
+rest_974,BBQ Joint,University,Mexican,$$,Worst restaurant experience ever. Avoid this place.,2.0
+rest_975,Coffee Corner,Downtown,Coffee,$$$,Disappointing experience. Food was cold and service was slow.,1.8
+rest_976,Sushi Zen,Suburb,Coffee,$$$,Terrible food and rude staff. Would not recommend.,0.9
+rest_977,Pasta Place,University,Mexican,$$$$,Disappointing experience. Food was cold and service was slow.,2.0
+rest_978,BBQ Joint,Mall,Coffee,$,Disappointing experience. Food was cold and service was slow.,2.2
+rest_979,Burger House,University,Japanese,$,Not worth the money. Poor quality and bad service.,1.9
+rest_980,Fine Dining,Mall,BBQ,$,Perfect place for dinner. Great ambiance and taste.,4.5
+rest_981,BBQ Joint,Beach,Italian,$$$$,"Nice place, food was okay. Nothing extraordinary.",3.8
+rest_982,Fine Dining,Suburb,American,$,"Nice place, food was okay. Nothing extraordinary.",4.3
+rest_983,Sushi Zen,Downtown,Italian,$$$,Disappointing experience. Food was cold and service was slow.,0.8
+rest_984,BBQ Joint,University,Coffee,$$$,Decent restaurant with reasonable prices.,3.9
+rest_985,Fine Dining,Downtown,Coffee,$,Terrible food and rude staff. Would not recommend.,1.4
+rest_986,Pasta Place,University,Vegetarian,$$,Perfect place for dinner. Great ambiance and taste.,4.9
+rest_987,Pasta Place,Downtown,Coffee,$$,Excellent quality and atmosphere. Will definitely come back.,4.6
+rest_988,Burger House,University,American,$$$$,Terrible food and rude staff. Would not recommend.,3.7
+rest_989,BBQ Joint,Mall,Japanese,$$,Worst restaurant experience ever. Avoid this place.,2.3
+rest_990,Taco Truck,University,Italian,$$$$,Terrible food and rude staff. Would not recommend.,2.0
+rest_991,Taco Truck,Beach,Vegetarian,$$$,Worst restaurant experience ever. Avoid this place.,0.8
+rest_992,Vegan Delight,Downtown,BBQ,$,Not worth the money. Poor quality and bad service.,0.7
+rest_993,Coffee Corner,University,Mexican,$$$,Not worth the money. Poor quality and bad service.,2.4
+rest_994,Steakhouse,Downtown,Mexican,$$$,Decent restaurant with reasonable prices.,3.5
+rest_995,Pasta Place,Suburb,Vegetarian,$$,"Nice place, food was okay. Nothing extraordinary.",3.9
+rest_996,Sushi Zen,Suburb,Mexican,$$$,Not worth the money. Poor quality and bad service.,0.3
+rest_997,Sushi Zen,Suburb,Japanese,$$$,Disappointing experience. Food was cold and service was slow.,0.9
+rest_998,Pizza Palace,Beach,American,$$$$,Worst restaurant experience ever. Avoid this place.,1.0
+rest_999,Fine Dining,Suburb,Italian,$$$,"Good food, decent service. Pretty average overall.",2.7
