@@ -127,7 +127,7 @@ sys.path.append(os.getcwd())
 if __name__ == "__main__":
     # Start the API server
     uvicorn.run(
-        "api.main:app",
+        "src.main:app",
         host="0.0.0.0",
         port=8005,
         reload=True,
