@@ -37,7 +37,7 @@ def check_prerequisites():
     logger.info("Checking prerequisites...")
     
     # Check if we're in the right directory
-    required_dirs = ['src', 'api', 'data', 'models']
+    required_dirs = ['src', 'data', 'models']
     missing_dirs = []
     
     for dir_name in required_dirs:
