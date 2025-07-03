@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         dockerhubCred = credentials('docker-cred')
-        dockerImage = 'restaurant-rating-predictor:latest'
+        dockerImage = 'dhruvrs/restaurant-rating-predictor:latest'
     }
     stages {
         stage('Prepare') {
