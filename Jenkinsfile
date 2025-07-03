@@ -5,14 +5,21 @@ pipeline {
         dockerImage = 'restaurant-rating-predictor:latest'
     }
     stages {
+        stage('Prepare') {
+            steps {
+                // Increase Git HTTP post buffer size to handle large repos
+                sh 'git config --global http.postBuffer 524288000'
+                // Clean workspace before checkout
+                cleanWs()
+            }
+        }
         stage('Git checkout') {
             steps {
-                script {
-                    git(
-                        url: 'https://github.com/Dhruv-274/Restaurant_MLops.git',
-                        branch: 'master'
-                    )
-                }
+                checkout([$class: 'GitSCM',
+                    branches: [[name: 'refs/heads/master']],
+                    userRemoteConfigs: [[url: 'https://github.com/Dhruv-274/Restaurant_MLops.git']],
+                    extensions: [[$class: 'CloneOption', depth: 1, noTags: false, shallow: true]]
+                ])
             }
         }
         stage('Build Docker Image') {
